@@ -1,0 +1,1435 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/sheng\/Desktop\/spook\/missing --run aclocal-1.8$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMDEP_FALSE	Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/sheng\/Desktop\/spook\/missing --run tar$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/sheng\/Desktop\/spook\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/sheng\/Desktop\/spook\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/sheng\/Desktop\/spook\/missing --run automake-1.8$/;"	m
+AWK	Makefile	/^AWK = mawk$/;"	m
+BUILD_ENCODER_JPEG_FALSE	Makefile	/^BUILD_ENCODER_JPEG_FALSE = $/;"	m
+BUILD_ENCODER_JPEG_TRUE	Makefile	/^BUILD_ENCODER_JPEG_TRUE = #$/;"	m
+BUILD_ENCODER_MPEG4_FALSE	Makefile	/^BUILD_ENCODER_MPEG4_FALSE = #$/;"	m
+BUILD_ENCODER_MPEG4_TRUE	Makefile	/^BUILD_ENCODER_MPEG4_TRUE = $/;"	m
+BUILD_INPUT_DC1394_FALSE	Makefile	/^BUILD_INPUT_DC1394_FALSE = $/;"	m
+BUILD_INPUT_DC1394_TRUE	Makefile	/^BUILD_INPUT_DC1394_TRUE = #$/;"	m
+BUILD_INPUT_V4L2_FALSE	Makefile	/^BUILD_INPUT_V4L2_FALSE = #$/;"	m
+BUILD_INPUT_V4L2_TRUE	Makefile	/^BUILD_INPUT_V4L2_TRUE = $/;"	m
+BUILD_INPUT_V4L_FALSE	Makefile	/^BUILD_INPUT_V4L_FALSE = $/;"	m
+BUILD_INPUT_V4L_TRUE	Makefile	/^BUILD_INPUT_V4L_TRUE = #$/;"	m
+BUILD_INPUT_VDIG_FALSE	Makefile	/^BUILD_INPUT_VDIG_FALSE = $/;"	m
+BUILD_INPUT_VDIG_TRUE	Makefile	/^BUILD_INPUT_VDIG_TRUE = #$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2 -pthread -Wall -fno-strict-aliasing -I\/usr\/src\/linux\/include$/;"	m
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I.$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEP_FILES	Makefile	/^DEP_FILES = .\/$(DEPDIR)\/access_log.Po .\/$(DEPDIR)\/audio.Po \\$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz $(distdir).tar.bz2$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = README $(am__configure_deps) $(srcdir)\/Makefile.am \\$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(am__spook_SOURCES_DIST) $(spookctl_SOURCES)$/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = spook.conf.dist$/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LEX	Makefile	/^LEX = ${SHELL} \/home\/sheng\/Desktop\/spook\/missing --run flex$/;"	m
+LEXCOMPILE	Makefile	/^LEXCOMPILE = $(LEX) $(LFLAGS) $(AM_LFLAGS)$/;"	m
+LEXLIB	Makefile	/^LEXLIB = $/;"	m
+LEX_OUTPUT_ROOT	Makefile	/^LEX_OUTPUT_ROOT = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = -lxvidcore -ljpeg$/;"	m
+LINK	Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/sheng\/Desktop\/spook\/missing --run makeinfo$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = spook$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = Spook$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = Spook 20050207$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = spook$/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 20050207$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+QTLIBS	Makefile	/^QTLIBS = $/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SOURCES	Makefile	/^SOURCES = $(spook_SOURCES) $(spookctl_SOURCES)$/;"	m
+SPOOK_ENCODER_JPEG	Makefile	/^SPOOK_ENCODER_JPEG = $/;"	m
+SPOOK_ENCODER_MPEG4	Makefile	/^SPOOK_ENCODER_MPEG4 = $/;"	m
+SPOOK_INPUT_DC1394	Makefile	/^SPOOK_INPUT_DC1394 = $/;"	m
+SPOOK_INPUT_V4L	Makefile	/^SPOOK_INPUT_V4L = $/;"	m
+SPOOK_INPUT_V4L2	Makefile	/^SPOOK_INPUT_V4L2 = $/;"	m
+SPOOK_INPUT_VDIG	Makefile	/^SPOOK_INPUT_VDIG = $/;"	m
+STRIP	Makefile	/^STRIP = $/;"	m
+VERSION	Makefile	/^VERSION = 20050207$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_STRIP	Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__DEPENDENCIES_1	Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__append_2	Makefile	/^am__append_2 = input-v4l2.c$/;"	m
+am__append_6	Makefile	/^am__append_6 = encoder-mpeg4.c decoder-mpeg4.c$/;"	m
+am__append_7	Makefile	/^am__append_7 = encoder-jpeg.c$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__fastdepCC_FALSE	Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_TRUE	Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__objects_2	Makefile	/^am__objects_2 = input-v4l2.$(OBJEXT)$/;"	m
+am__objects_5	Makefile	/^am__objects_5 = encoder-mpeg4.$(OBJEXT) \\$/;"	m
+am__objects_6	Makefile	/^am__objects_6 = encoder-jpeg.$(OBJEXT)$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__spook_SOURCES_DIST	Makefile	/^am__spook_SOURCES_DIST = conf_parse.c conf_scan.l conversions.c log.c \\$/;"	m
+am_spook_OBJECTS	Makefile	/^am_spook_OBJECTS = conf_parse.$(OBJEXT) conf_scan.$(OBJEXT) \\$/;"	m
+am_spookctl_OBJECTS	Makefile	/^am_spookctl_OBJECTS = spookctl.$(OBJEXT) event.$(OBJEXT)$/;"	m
+binPROGRAMS_INSTALL	Makefile	/^binPROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = spook$(EXEEXT) spookctl$(EXEEXT)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = unknown$/;"	m
+datadir	Makefile	/^datadir = ${prefix}\/share$/;"	m
+dc_install_base	Makefile	/^	dc_install_base=`$(am__cd) $(distdir)\/_inst && pwd | sed -e 's,^[^:\\\\\/]:[\\\\\/],\/,'` \\$/;"	m
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = unknown$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	Makefile	/^install_sh = \/home\/sheng\/Desktop\/spook\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkdir_p	Makefile	/^mkdir_p = mkdir -p -- .$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(mkdir_p)$/;"	m
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/spook$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/spook$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/spook$/;"	m
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+spook_DEPENDENCIES	Makefile	/^spook_DEPENDENCIES = $(am__DEPENDENCIES_2)$/;"	m
+spook_LDADD	Makefile	/^spook_LDADD = -lm $(am__append_5)$/;"	m
+spook_OBJECTS	Makefile	/^spook_OBJECTS = $(am_spook_OBJECTS)$/;"	m
+spook_SOURCES	Makefile	/^spook_SOURCES = conf_parse.c conf_scan.l conversions.c log.c pmsg.c md5.c \\$/;"	m
+spookctl_LDADD	Makefile	/^spookctl_LDADD = $(LDADD)$/;"	m
+spookctl_OBJECTS	Makefile	/^spookctl_OBJECTS = $(am_spookctl_OBJECTS)$/;"	m
+spookctl_SOURCES	Makefile	/^spookctl_SOURCES = spookctl.c event.c event.h$/;"	m
+srcdir	Makefile	/^srcdir = .$/;"	m
+subdir	Makefile	/^subdir = .$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+access_log_init	access_log.c	/^int access_log_init(void)$/;"	f
+config_statements	access_log.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+log_fd	access_log.c	/^static int log_fd = -1;$/;"	v	file:
+set_file	access_log.c	/^static int set_file( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+write_access_log	access_log.c	/^void write_access_log( char *path, struct sockaddr *addr, int code, char *req,$/;"	f
+adjust_count	audio.c	/^	int adjust_count;$/;"	m	struct:audio_ring	file:
+adjust_rate	audio.c	/^	int adjust_rate;$/;"	m	struct:audio_ring	file:
+audio_ring	audio.c	/^struct audio_ring {$/;"	s	file:
+audio_ring_input	audio.c	/^void audio_ring_input( struct audio_ring *ring, unsigned char *d, int len )$/;"	f
+buf	audio.c	/^	unsigned char *buf;$/;"	m	struct:audio_ring	file:
+buflen	audio.c	/^	int buflen;$/;"	m	struct:audio_ring	file:
+framelen	audio.c	/^	int framelen;$/;"	m	struct:audio_ring	file:
+i_r	audio.c	/^	int i_r;$/;"	m	struct:audio_ring	file:
+i_w	audio.c	/^	int i_w;$/;"	m	struct:audio_ring	file:
+meter	audio.c	/^	struct meter meter;$/;"	m	struct:audio_ring	typeref:struct:audio_ring::meter	file:
+new_audio_ring	audio.c	/^struct audio_ring *new_audio_ring( int sample_size, int sample_rate,$/;"	f
+queue	audio.c	/^	struct soft_queue *queue;$/;"	m	struct:audio_ring	typeref:struct:audio_ring::soft_queue	file:
+sample_rate	audio.c	/^	int sample_rate;$/;"	m	struct:audio_ring	file:
+sample_size	audio.c	/^	int sample_size;$/;"	m	struct:audio_ring	file:
+base64	base64_table.h	/^static int base64[] = {$/;"	v
+ByteSwap16	bswap.h	/^static inline uint16_t ByteSwap16(uint16_t x) {$/;"	f
+ByteSwap16	bswap.h	/^static inline unsigned short ByteSwap16(unsigned short x)$/;"	f
+ByteSwap32	bswap.h	/^static inline uint32_t ByteSwap32(uint32_t x) {$/;"	f
+ByteSwap32	bswap.h	/^static inline unsigned int ByteSwap32(unsigned int x)$/;"	f
+ByteSwap64	bswap.h	/^static inline uint64_t ByteSwap64(uint64_t x)$/;"	f
+ByteSwap64	bswap.h	/^static inline unsigned long long int ByteSwap64(unsigned long long int x)$/;"	f
+WORDS_BIGENDIAN	bswap.h	11;"	d
+__BSWAP_H__	bswap.h	7;"	d
+be2me_16	bswap.h	119;"	d
+be2me_16	bswap.h	126;"	d
+be2me_32	bswap.h	120;"	d
+be2me_32	bswap.h	127;"	d
+be2me_64	bswap.h	121;"	d
+be2me_64	bswap.h	128;"	d
+bswap_16	bswap.h	26;"	d
+bswap_16	bswap.h	71;"	d
+bswap_16	bswap.h	90;"	d
+bswap_32	bswap.h	42;"	d
+bswap_32	bswap.h	72;"	d
+bswap_32	bswap.h	94;"	d
+bswap_64	bswap.h	109;"	d
+bswap_64	bswap.h	53;"	d
+bswap_64	bswap.h	86;"	d
+le2me_16	bswap.h	122;"	d
+le2me_16	bswap.h	129;"	d
+le2me_32	bswap.h	123;"	d
+le2me_32	bswap.h	130;"	d
+le2me_64	bswap.h	124;"	d
+le2me_64	bswap.h	131;"	d
+config_context	conf_parse.c	/^struct config_context {$/;"	s	file:
+end_block	conf_parse.c	/^	int (*end_block)( void *d );$/;"	m	struct:config_context	file:
+global_context	conf_parse.c	/^static struct config_context global_context = {$/;"	v	typeref:struct:config_context	file:
+name	conf_parse.c	/^	char name[256];$/;"	m	struct:config_context	file:
+next	conf_parse.c	/^	struct config_context *next;$/;"	m	struct:config_context	typeref:struct:config_context::config_context	file:
+process_statement	conf_parse.c	/^static int process_statement( struct config_context *cc, void *context_data,$/;"	f	file:
+read_config_file	conf_parse.c	/^int read_config_file( char *config_file )$/;"	f
+register_config_context	conf_parse.c	/^void register_config_context( char *type, char *name,$/;"	f
+start_block	conf_parse.c	/^	void *(*start_block)( void );$/;"	m	struct:config_context	file:
+statements	conf_parse.c	/^	struct statement *statements;$/;"	m	struct:config_context	typeref:struct:config_context::statement	file:
+type	conf_parse.c	/^	char type[256];$/;"	m	struct:config_context	file:
+TOKEN_NUM	conf_parse.h	19;"	d
+TOKEN_STR	conf_parse.h	20;"	d
+directive	conf_parse.h	/^	char *directive;$/;"	m	struct:statement
+max_args	conf_parse.h	/^	int max_args;$/;"	m	struct:statement
+min_args	conf_parse.h	/^	int min_args;$/;"	m	struct:statement
+num	conf_parse.h	/^		int num;$/;"	m	union:token::__anon1
+process	conf_parse.h	/^	int (*process)( int num_tokens, struct token *tokens, void *d );$/;"	m	struct:statement
+statement	conf_parse.h	/^struct statement {$/;"	s
+str	conf_parse.h	/^		char str[256];$/;"	m	union:token::__anon1
+token	conf_parse.h	/^struct token {$/;"	s
+type	conf_parse.h	/^	int type;$/;"	m	struct:token
+types	conf_parse.h	/^	int types[10];$/;"	m	struct:statement
+v	conf_parse.h	/^	} v;$/;"	m	struct:token	typeref:union:token::__anon1
+BEGIN	conf_scan.c	79;"	d	file:
+ECHO	conf_scan.c	493;"	d	file:
+EOB_ACT_CONTINUE_SCAN	conf_scan.c	104;"	d	file:
+EOB_ACT_END_OF_FILE	conf_scan.c	105;"	d	file:
+EOB_ACT_LAST_MATCH	conf_scan.c	106;"	d	file:
+FLEX_SCANNER	conf_scan.c	7;"	d	file:
+INITIAL	conf_scan.c	381;"	d	file:
+REJECT	conf_scan.c	375;"	d	file:
+YYSTATE	conf_scan.c	86;"	d	file:
+YY_AT_BOL	conf_scan.c	262;"	d	file:
+YY_BREAK	conf_scan.c	552;"	d	file:
+YY_BUFFER_EOF_PENDING	conf_scan.c	198;"	d	file:
+YY_BUFFER_NEW	conf_scan.c	186;"	d	file:
+YY_BUFFER_NORMAL	conf_scan.c	187;"	d	file:
+YY_BUFFER_STATE	conf_scan.c	/^typedef struct yy_buffer_state *YY_BUFFER_STATE;$/;"	t	typeref:struct:yy_buffer_state	file:
+YY_BUF_SIZE	conf_scan.c	97;"	d	file:
+YY_CHAR	conf_scan.c	/^typedef unsigned char YY_CHAR;$/;"	t	file:
+YY_CURRENT_BUFFER	conf_scan.c	207;"	d	file:
+YY_DECL	conf_scan.c	540;"	d	file:
+YY_DO_BEFORE_ACTION	conf_scan.c	281;"	d	file:
+YY_END_OF_BUFFER	conf_scan.c	289;"	d	file:
+YY_END_OF_BUFFER_CHAR	conf_scan.c	94;"	d	file:
+YY_EXIT_FAILURE	conf_scan.c	1506;"	d	file:
+YY_FATAL_ERROR	conf_scan.c	407;"	d	file:
+YY_FATAL_ERROR	conf_scan.c	533;"	d	file:
+YY_FLEX_MAJOR_VERSION	conf_scan.c	8;"	d	file:
+YY_FLEX_MINOR_VERSION	conf_scan.c	9;"	d	file:
+YY_FLUSH_BUFFER	conf_scan.c	236;"	d	file:
+YY_INPUT	conf_scan.c	500;"	d	file:
+YY_MORE_ADJ	conf_scan.c	377;"	d	file:
+YY_NEW_FILE	conf_scan.c	92;"	d	file:
+YY_NO_POP_STATE	conf_scan.c	463;"	d	file:
+YY_NO_PUSH_STATE	conf_scan.c	462;"	d	file:
+YY_NO_TOP_STATE	conf_scan.c	464;"	d	file:
+YY_NULL	conf_scan.c	66;"	d	file:
+YY_NUM_RULES	conf_scan.c	288;"	d	file:
+YY_PROTO	conf_scan.c	60;"	d	file:
+YY_PROTO	conf_scan.c	62;"	d	file:
+YY_READ_BUF_SIZE	conf_scan.c	484;"	d	file:
+YY_RESTORE_YY_MORE_OFFSET	conf_scan.c	378;"	d	file:
+YY_RULE_SETUP	conf_scan.c	555;"	d	file:
+YY_SC_TO_UI	conf_scan.c	73;"	d	file:
+YY_SKIP_YYWRAP	conf_scan.c	266;"	d	file:
+YY_START	conf_scan.c	85;"	d	file:
+YY_START_STACK_INCR	conf_scan.c	528;"	d	file:
+YY_STATE_EOF	conf_scan.c	89;"	d	file:
+YY_USER_ACTION	conf_scan.c	547;"	d	file:
+YY_USE_CONST	conf_scan.c	31;"	d	file:
+YY_USE_CONST	conf_scan.c	38;"	d	file:
+YY_USE_CONST	conf_scan.c	48;"	d	file:
+YY_USE_PROTOS	conf_scan.c	28;"	d	file:
+YY_USE_PROTOS	conf_scan.c	37;"	d	file:
+YY_USE_PROTOS	conf_scan.c	49;"	d	file:
+__cplusplus	conf_scan.c	18;"	d	file:
+cur_token	conf_scan.c	/^static struct token *cur_token;$/;"	v	typeref:struct:token	file:
+get_next_token	conf_scan.c	/^int get_next_token( struct token *tok, int *line )$/;"	f
+lineno	conf_scan.c	/^static int lineno;$/;"	v	file:
+main	conf_scan.c	/^int main()$/;"	f
+scanner_error	conf_scan.c	/^void scanner_error( char *msg )$/;"	f
+start_conf_read	conf_scan.c	/^int start_conf_read( char *filename )$/;"	f
+unput	conf_scan.c	135;"	d	file:
+yy_accept	conf_scan.c	/^static yyconst short int yy_accept[25] =$/;"	v	file:
+yy_at_bol	conf_scan.c	/^	int yy_at_bol;$/;"	m	struct:yy_buffer_state	file:
+yy_base	conf_scan.c	/^static yyconst short int yy_base[30] =$/;"	v	file:
+yy_buf_pos	conf_scan.c	/^	char *yy_buf_pos;		\/* current position in input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_size	conf_scan.c	/^	yy_size_t yy_buf_size;$/;"	m	struct:yy_buffer_state	file:
+yy_buffer_state	conf_scan.c	/^struct yy_buffer_state$/;"	s	file:
+yy_buffer_status	conf_scan.c	/^	int yy_buffer_status;$/;"	m	struct:yy_buffer_state	file:
+yy_c_buf_p	conf_scan.c	/^static char *yy_c_buf_p = (char *) 0;$/;"	v	file:
+yy_ch_buf	conf_scan.c	/^	char *yy_ch_buf;		\/* input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_chk	conf_scan.c	/^static yyconst short int yy_chk[60] =$/;"	v	file:
+yy_create_buffer	conf_scan.c	/^YY_BUFFER_STATE yy_create_buffer( FILE *file, int size )$/;"	f
+yy_current_buffer	conf_scan.c	/^static YY_BUFFER_STATE yy_current_buffer = 0;$/;"	v	file:
+yy_def	conf_scan.c	/^static yyconst short int yy_def[30] =$/;"	v	file:
+yy_delete_buffer	conf_scan.c	/^void yy_delete_buffer( YY_BUFFER_STATE b )$/;"	f
+yy_did_buffer_switch_on_eof	conf_scan.c	/^static int yy_did_buffer_switch_on_eof;$/;"	v	file:
+yy_ec	conf_scan.c	/^static yyconst int yy_ec[256] =$/;"	v	file:
+yy_fatal_error	conf_scan.c	/^static void yy_fatal_error( yyconst char msg[] )$/;"	f	file:
+yy_fill_buffer	conf_scan.c	/^	int yy_fill_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_flex_alloc	conf_scan.c	/^static void *yy_flex_alloc( yy_size_t size )$/;"	f	file:
+yy_flex_free	conf_scan.c	/^static void yy_flex_free( void *ptr )$/;"	f	file:
+yy_flex_realloc	conf_scan.c	/^static void *yy_flex_realloc( void *ptr, yy_size_t size )$/;"	f	file:
+yy_flex_strlen	conf_scan.c	/^static int yy_flex_strlen( yyconst char *s )$/;"	f	file:
+yy_flex_strncpy	conf_scan.c	/^static void yy_flex_strncpy( char *s1, yyconst char *s2, int n )$/;"	f	file:
+yy_flush_buffer	conf_scan.c	/^void yy_flush_buffer( YY_BUFFER_STATE b )$/;"	f
+yy_get_next_buffer	conf_scan.c	/^static int yy_get_next_buffer()$/;"	f	file:
+yy_get_previous_state	conf_scan.c	/^static yy_state_type yy_get_previous_state()$/;"	f	file:
+yy_hold_char	conf_scan.c	/^static char yy_hold_char;$/;"	v	file:
+yy_init	conf_scan.c	/^static int yy_init = 1;		\/* whether we need to initialize *\/$/;"	v	file:
+yy_init_buffer	conf_scan.c	/^void yy_init_buffer( YY_BUFFER_STATE b, FILE *file )$/;"	f
+yy_input_file	conf_scan.c	/^	FILE *yy_input_file;$/;"	m	struct:yy_buffer_state	file:
+yy_is_interactive	conf_scan.c	/^	int yy_is_interactive;$/;"	m	struct:yy_buffer_state	file:
+yy_is_our_buffer	conf_scan.c	/^	int yy_is_our_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_last_accepting_cpos	conf_scan.c	/^static char *yy_last_accepting_cpos;$/;"	v	file:
+yy_last_accepting_state	conf_scan.c	/^static yy_state_type yy_last_accepting_state;$/;"	v	file:
+yy_load_buffer_state	conf_scan.c	/^void yy_load_buffer_state( void )$/;"	f
+yy_meta	conf_scan.c	/^static yyconst int yy_meta[15] =$/;"	v	file:
+yy_n_chars	conf_scan.c	/^	int yy_n_chars;$/;"	m	struct:yy_buffer_state	file:
+yy_n_chars	conf_scan.c	/^static int yy_n_chars;		\/* number of characters read into yy_ch_buf *\/$/;"	v	file:
+yy_new_buffer	conf_scan.c	246;"	d	file:
+yy_nxt	conf_scan.c	/^static yyconst short int yy_nxt[60] =$/;"	v	file:
+yy_pop_state	conf_scan.c	/^static void yy_pop_state()$/;"	f	file:
+yy_push_state	conf_scan.c	/^static void yy_push_state( int new_state )$/;"	f	file:
+yy_scan_buffer	conf_scan.c	/^YY_BUFFER_STATE yy_scan_buffer( char *base, yy_size_t size )$/;"	f
+yy_scan_bytes	conf_scan.c	/^YY_BUFFER_STATE yy_scan_bytes( yyconst char *bytes, int len )$/;"	f
+yy_scan_string	conf_scan.c	/^YY_BUFFER_STATE yy_scan_string( yyconst char *yy_str )$/;"	f
+yy_set_bol	conf_scan.c	255;"	d	file:
+yy_set_interactive	conf_scan.c	248;"	d	file:
+yy_size_t	conf_scan.c	/^typedef unsigned int yy_size_t;$/;"	t	file:
+yy_start	conf_scan.c	/^static int yy_start = 0;	\/* start state number *\/$/;"	v	file:
+yy_start_stack	conf_scan.c	/^static int *yy_start_stack = 0;$/;"	v	file:
+yy_start_stack_depth	conf_scan.c	/^static int yy_start_stack_depth = 0;$/;"	v	file:
+yy_start_stack_ptr	conf_scan.c	/^static int yy_start_stack_ptr = 0;$/;"	v	file:
+yy_state_type	conf_scan.c	/^typedef int yy_state_type;$/;"	t	file:
+yy_switch_to_buffer	conf_scan.c	/^void yy_switch_to_buffer( YY_BUFFER_STATE new_buffer )$/;"	f
+yy_top_state	conf_scan.c	/^static int yy_top_state()$/;"	f	file:
+yy_try_NUL_trans	conf_scan.c	/^static yy_state_type yy_try_NUL_trans( yy_state_type yy_current_state )$/;"	f	file:
+yyconst	conf_scan.c	53;"	d	file:
+yyconst	conf_scan.c	55;"	d	file:
+yyin	conf_scan.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yyinput	conf_scan.c	/^static int yyinput()$/;"	f	file:
+yyleng	conf_scan.c	/^int yyleng;$/;"	v
+yyless	conf_scan.c	124;"	d	file:
+yyless	conf_scan.c	1524;"	d	file:
+yyless	conf_scan.c	1525;"	d	file:
+yymore	conf_scan.c	376;"	d	file:
+yyout	conf_scan.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yyrestart	conf_scan.c	/^void yyrestart( FILE *input_file )$/;"	f
+yyterminate	conf_scan.c	523;"	d	file:
+yytext	conf_scan.c	/^char *yytext;$/;"	v
+yytext_ptr	conf_scan.c	271;"	d	file:
+yyunput	conf_scan.c	/^static void yyunput( int c, register char *yy_bp )$/;"	f	file:
+yywrap	conf_scan.c	265;"	d	file:
+HAVE_ASM_TYPES_H	config.h	9;"	d
+HAVE_INTTYPES_H	config.h	15;"	d
+HAVE_MEMORY_H	config.h	21;"	d
+HAVE_STDINT_H	config.h	27;"	d
+HAVE_STDLIB_H	config.h	30;"	d
+HAVE_STRINGS_H	config.h	33;"	d
+HAVE_STRING_H	config.h	36;"	d
+HAVE_SYS_STAT_H	config.h	39;"	d
+HAVE_SYS_TYPES_H	config.h	42;"	d
+HAVE_UNISTD_H	config.h	45;"	d
+PACKAGE	config.h	48;"	d
+PACKAGE_BUGREPORT	config.h	51;"	d
+PACKAGE_NAME	config.h	54;"	d
+PACKAGE_STRING	config.h	57;"	d
+PACKAGE_TARNAME	config.h	60;"	d
+PACKAGE_URL	config.h	63;"	d
+PACKAGE_VERSION	config.h	66;"	d
+SPOOK_ENCODER_JPEG	config.h	69;"	d
+SPOOK_ENCODER_MPEG4	config.h	72;"	d
+SPOOK_INPUT_V4L2	config.h	81;"	d
+STDC_HEADERS	config.h	87;"	d
+VERSION	config.h	90;"	d
+control_listen	control.c	/^int control_listen(void)$/;"	f
+ctl_sock	control.c	/^struct ctl_sock {$/;"	s	file:
+do_accept	control.c	/^static void do_accept( struct event_info *ei, void *d )$/;"	f	file:
+do_read	control.c	/^static void do_read( struct event_info *ei, void *d )$/;"	f	file:
+drop_sock	control.c	/^static void drop_sock( struct ctl_sock *cs )$/;"	f	file:
+fd	control.c	/^	int fd;$/;"	m	struct:ctl_sock	file:
+fd	control.c	/^	int fd;$/;"	m	struct:listener	file:
+listener	control.c	/^struct listener {$/;"	s	file:
+read_event	control.c	/^	struct event *read_event;$/;"	m	struct:ctl_sock	typeref:struct:ctl_sock::event	file:
+RGB2YUV	conversions.c	164;"	d	file:
+YUV2RGB	conversions.c	151;"	d	file:
+iyu12rgb	conversions.c	/^iyu12rgb (char *YUV, char *RGB, int NumPixels) {$/;"	f
+iyu12yuy2	conversions.c	/^iyu12yuy2 (unsigned char *src, unsigned char *dest, int NumPixels) {$/;"	f
+iyu22rgb	conversions.c	/^iyu22rgb (char *YUV, char *RGB, int NumPixels) {$/;"	f
+iyu22yuy2	conversions.c	/^iyu22yuy2 (unsigned char *src, unsigned char *dest, int NumPixels) {$/;"	f
+rgb2yuy2	conversions.c	/^rgb2yuy2 (char *RGB, char *YUV, int NumPixels) {$/;"	f
+uyvy2rgb	conversions.c	/^uyvy2rgb (char *YUV, char *RGB, int NumPixels) {$/;"	f
+uyvy2yuy2	conversions.c	/^uyvy2yuy2 (unsigned char *src, unsigned char *dest, int NumPixels) {$/;"	f
+y2rgb	conversions.c	/^y2rgb (char *YUV, char *RGB, int NumPixels) {$/;"	f
+y2yuy2	conversions.c	/^y2yuy2 (unsigned char *src, unsigned char *dest, int NumPixels) {$/;"	f
+y41p2yuyv	conversions.c	/^y41p2yuyv (unsigned char *src, unsigned char *dest, int NumPixels) {$/;"	f
+yuv2yuy2	conversions.c	/^yuv2yuy2 (unsigned char *src, unsigned char *dest, int NumPixels) {$/;"	f
+yuy22rgb	conversions.c	/^yuy22rgb (unsigned char *YUV, unsigned char *RGB, int NumPixels) {$/;"	f
+__CONVERSIONS_H__	conversions.h	25;"	d
+config_statements	decoder-mpeg4.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+decoding_thread	decoder-mpeg4.c	/^	pthread_t decoding_thread;$/;"	m	struct:mpeg4_decoder	file:
+end_block	decoder-mpeg4.c	/^static int end_block( void *d )$/;"	f	file:
+ex	decoder-mpeg4.c	/^	struct frame_exchanger *ex;$/;"	m	struct:mpeg4_decoder	typeref:struct:mpeg4_decoder::frame_exchanger	file:
+get_framerate	decoder-mpeg4.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+height	decoder-mpeg4.c	/^	int height;$/;"	m	struct:mpeg4_decoder	file:
+input	decoder-mpeg4.c	/^	struct stream_destination *input;$/;"	m	struct:mpeg4_decoder	typeref:struct:mpeg4_decoder::stream_destination	file:
+mpeg4_dec_init	decoder-mpeg4.c	/^int mpeg4_dec_init(void)$/;"	f
+mpeg4_decode	decoder-mpeg4.c	/^static void mpeg4_decode( struct frame *input, void *d )$/;"	f	file:
+mpeg4_decoder	decoder-mpeg4.c	/^struct mpeg4_decoder {$/;"	s	file:
+mpeg4_loop	decoder-mpeg4.c	/^static void *mpeg4_loop( void *d )$/;"	f	file:
+mpeg4_start	decoder-mpeg4.c	/^static void mpeg4_start( struct mpeg4_decoder *en, struct frame *f )$/;"	f	file:
+mpeg4_stop	decoder-mpeg4.c	/^static void mpeg4_stop( struct mpeg4_decoder *en )$/;"	f	file:
+output	decoder-mpeg4.c	/^	struct stream *output;$/;"	m	struct:mpeg4_decoder	typeref:struct:mpeg4_decoder::stream	file:
+reset_pending	decoder-mpeg4.c	/^	int reset_pending;$/;"	m	struct:mpeg4_decoder	file:
+running	decoder-mpeg4.c	/^	int running; \/* only used by the main thread *\/$/;"	m	struct:mpeg4_decoder	file:
+set_input	decoder-mpeg4.c	/^static int set_input( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	decoder-mpeg4.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	decoder-mpeg4.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	decoder-mpeg4.c	/^static void *start_block(void)$/;"	f	file:
+width	decoder-mpeg4.c	/^	int width;$/;"	m	struct:mpeg4_decoder	file:
+xvid_handle	decoder-mpeg4.c	/^	void *xvid_handle;$/;"	m	struct:mpeg4_decoder	file:
+alaw_encode	encoder-alaw.c	/^static void alaw_encode( struct frame *pcm, void *d )$/;"	f	file:
+alaw_encoder	encoder-alaw.c	/^struct alaw_encoder {$/;"	s	file:
+alaw_init	encoder-alaw.c	/^int alaw_init(void)$/;"	f
+config_statements	encoder-alaw.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+end_block	encoder-alaw.c	/^static int end_block( void *d )$/;"	f	file:
+get_framerate	encoder-alaw.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+input	encoder-alaw.c	/^	struct stream_destination *input;$/;"	m	struct:alaw_encoder	typeref:struct:alaw_encoder::stream_destination	file:
+output	encoder-alaw.c	/^	struct stream *output;$/;"	m	struct:alaw_encoder	typeref:struct:alaw_encoder::stream	file:
+set_input	encoder-alaw.c	/^static int set_input( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	encoder-alaw.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	encoder-alaw.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	encoder-alaw.c	/^static void *start_block(void)$/;"	f	file:
+config_statements	encoder-jpeg.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+empty_output_buffer	encoder-jpeg.c	/^static boolean empty_output_buffer( j_compress_ptr cinfo )$/;"	f	file:
+end_block	encoder-jpeg.c	/^static int end_block( void *d )$/;"	f	file:
+ex	encoder-jpeg.c	/^	struct frame_exchanger *ex;$/;"	m	struct:jpeg_encoder	typeref:struct:jpeg_encoder::frame_exchanger	file:
+format	encoder-jpeg.c	/^	int format;$/;"	m	struct:jpeg_encoder	file:
+get_framerate	encoder-jpeg.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+init_destination	encoder-jpeg.c	/^static void init_destination( j_compress_ptr cinfo )$/;"	f	file:
+input	encoder-jpeg.c	/^	struct stream_destination *input;$/;"	m	struct:jpeg_encoder	typeref:struct:jpeg_encoder::stream_destination	file:
+jpeg_encode	encoder-jpeg.c	/^static void jpeg_encode( struct frame *input, void *d )$/;"	f	file:
+jpeg_encoder	encoder-jpeg.c	/^struct jpeg_encoder {$/;"	s	file:
+jpeg_init	encoder-jpeg.c	/^int jpeg_init(void)$/;"	f
+jpeg_loop	encoder-jpeg.c	/^static void *jpeg_loop( void *d )$/;"	f	file:
+output	encoder-jpeg.c	/^	struct stream *output;$/;"	m	struct:jpeg_encoder	typeref:struct:jpeg_encoder::stream	file:
+set_input	encoder-jpeg.c	/^static int set_input( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	encoder-jpeg.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	encoder-jpeg.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	encoder-jpeg.c	/^static void *start_block(void)$/;"	f	file:
+term_destination	encoder-jpeg.c	/^static void term_destination( j_compress_ptr cinfo )$/;"	f	file:
+thread	encoder-jpeg.c	/^	pthread_t thread;$/;"	m	struct:jpeg_encoder	file:
+bitrate	encoder-mp2.c	/^	int bitrate;$/;"	m	struct:mp2_encoder	file:
+bitrateII_tab	encoder-mp2.c	/^static const int bitrateII_tab[] = { -1, 32000, 48000, 56000, 64000,$/;"	v	file:
+channels	encoder-mp2.c	/^	int channels;$/;"	m	struct:mp2_encoder	file:
+config_statements	encoder-mp2.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+ctx	encoder-mp2.c	/^	MpegAudioContext ctx;$/;"	m	struct:mp2_encoder	file:
+end_block	encoder-mp2.c	/^static int end_block( void *d )$/;"	f	file:
+get_back_frame	encoder-mp2.c	/^static void get_back_frame( struct event_info *ei, void *d )$/;"	f	file:
+get_framerate	encoder-mp2.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+input	encoder-mp2.c	/^	struct stream_destination *input;$/;"	m	struct:mp2_encoder	typeref:struct:mp2_encoder::stream_destination	file:
+inq	encoder-mp2.c	/^	struct soft_queue *inq;$/;"	m	struct:mp2_encoder	typeref:struct:mp2_encoder::soft_queue	file:
+mp2_encode	encoder-mp2.c	/^static void mp2_encode( struct frame *input, void *d )$/;"	f	file:
+mp2_encoder	encoder-mp2.c	/^struct mp2_encoder {$/;"	s	file:
+mp2_init	encoder-mp2.c	/^int mp2_init(void)$/;"	f
+mp2_loop	encoder-mp2.c	/^static void *mp2_loop( void *data )$/;"	f	file:
+output	encoder-mp2.c	/^	struct stream *output;$/;"	m	struct:mp2_encoder	typeref:struct:mp2_encoder::stream	file:
+outq	encoder-mp2.c	/^	struct soft_queue *outq;$/;"	m	struct:mp2_encoder	typeref:struct:mp2_encoder::soft_queue	file:
+samprate	encoder-mp2.c	/^	int samprate;$/;"	m	struct:mp2_encoder	file:
+samrate_tab	encoder-mp2.c	/^static const int samrate_tab[] = { 44100, 48000, 32000, -1 };$/;"	v	file:
+set_bitrate	encoder-mp2.c	/^static int set_bitrate( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_input	encoder-mp2.c	/^static int set_input( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	encoder-mp2.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	encoder-mp2.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	encoder-mp2.c	/^static void *start_block(void)$/;"	f	file:
+thread	encoder-mp2.c	/^	pthread_t thread;$/;"	m	struct:mp2_encoder	file:
+bitrate	encoder-mpeg4.c	/^	int bitrate;$/;"	m	struct:mpeg4_encoder	file:
+config_statements	encoder-mpeg4.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+encoding_thread	encoder-mpeg4.c	/^	pthread_t encoding_thread;$/;"	m	struct:mpeg4_encoder	file:
+end_block	encoder-mpeg4.c	/^static int end_block( void *d )$/;"	f	file:
+ex	encoder-mpeg4.c	/^	struct frame_exchanger *ex;$/;"	m	struct:mpeg4_encoder	typeref:struct:mpeg4_encoder::frame_exchanger	file:
+get_framerate	encoder-mpeg4.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+height	encoder-mpeg4.c	/^	int height;$/;"	m	struct:mpeg4_encoder	file:
+input	encoder-mpeg4.c	/^	struct stream_destination *input;$/;"	m	struct:mpeg4_encoder	typeref:struct:mpeg4_encoder::stream_destination	file:
+mpeg4_encode	encoder-mpeg4.c	/^static void mpeg4_encode( struct frame *input, void *d )$/;"	f	file:
+mpeg4_encoder	encoder-mpeg4.c	/^struct mpeg4_encoder {$/;"	s	file:
+mpeg4_init	encoder-mpeg4.c	/^int mpeg4_init(void)$/;"	f
+mpeg4_loop	encoder-mpeg4.c	/^static void *mpeg4_loop( void *d )$/;"	f	file:
+mpeg4_start	encoder-mpeg4.c	/^static void mpeg4_start( struct mpeg4_encoder *en, struct frame *f )$/;"	f	file:
+mpeg4_stop	encoder-mpeg4.c	/^static void mpeg4_stop( struct mpeg4_encoder *en )$/;"	f	file:
+output	encoder-mpeg4.c	/^	struct stream *output;$/;"	m	struct:mpeg4_encoder	typeref:struct:mpeg4_encoder::stream	file:
+reset_pending	encoder-mpeg4.c	/^	int reset_pending;$/;"	m	struct:mpeg4_encoder	file:
+running	encoder-mpeg4.c	/^	int running; \/* only used by the main thread *\/$/;"	m	struct:mpeg4_encoder	file:
+set_bitrate	encoder-mpeg4.c	/^static int set_bitrate( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_input	encoder-mpeg4.c	/^static int set_input( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	encoder-mpeg4.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	encoder-mpeg4.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	encoder-mpeg4.c	/^static void *start_block(void)$/;"	f	file:
+width	encoder-mpeg4.c	/^	int width;$/;"	m	struct:mpeg4_encoder	file:
+xvid_handle	encoder-mpeg4.c	/^	void *xvid_handle;$/;"	m	struct:mpeg4_encoder	file:
+add_alarm_event	event.c	/^struct event *add_alarm_event( time_ref *t, unsigned int flags, callback f, void *d )$/;"	f
+add_always_event	event.c	/^struct event *add_always_event( unsigned int flags, callback f, void *d )$/;"	f
+add_fd_event	event.c	/^struct event *add_fd_event( int fd, int write, unsigned int flags, callback f, void *d )$/;"	f
+add_softqueue_event	event.c	/^struct event *add_softqueue_event( struct soft_queue *sq, unsigned int flags,$/;"	f
+add_timer_event	event.c	/^struct event *add_timer_event( int msec, unsigned int flags, callback f, void *d )$/;"	f
+add_to_list	event.c	/^static inline void add_to_list( struct soft_event *se, struct soft_event **list )$/;"	f	file:
+always_event_list	event.c	/^static struct event *always_event_list = NULL;$/;"	v	typeref:struct:event	file:
+end_loop	event.c	/^static int end_loop = 0;$/;"	v	file:
+event_loop	event.c	/^void event_loop( int single )$/;"	f
+exit_event_loop	event.c	/^void exit_event_loop(void)$/;"	f
+fd_event_list	event.c	/^static struct event *fd_event_list = NULL;$/;"	v	typeref:struct:event	file:
+get_event_enabled	event.c	/^int get_event_enabled( struct event *e )$/;"	f
+get_next_event	event.c	/^void *get_next_event( struct soft_queue *sq )$/;"	f
+locked_get_next_event	event.c	/^static void *locked_get_next_event( struct soft_queue *sq )$/;"	f	file:
+new_event	event.c	/^static struct event *new_event( callback f, void *d )$/;"	f	file:
+new_soft_queue	event.c	/^struct soft_queue *new_soft_queue( int length )$/;"	f
+remove_event	event.c	/^void remove_event( struct event *e )$/;"	f
+remove_from_list	event.c	/^static inline void remove_from_list( struct soft_event **se )$/;"	f	file:
+resched_event	event.c	/^void resched_event( struct event *e, time_ref *tr )$/;"	f
+set_event_enabled	event.c	/^void set_event_enabled( struct event *e, int enabled )$/;"	f
+set_event_interval	event.c	/^void set_event_interval( struct event *e, int msec )$/;"	f
+soft_queue_add	event.c	/^int soft_queue_add( struct soft_queue *sq, void *d )$/;"	f
+sq_run	event.c	/^static void sq_run( struct event_info *ei, void *d )$/;"	f	file:
+strip_events	event.c	/^static void strip_events( struct event **list )$/;"	f	file:
+time_add	event.c	/^void time_add( time_ref *tr, int msec )$/;"	f
+time_ago	event.c	/^int time_ago( time_ref *tr )$/;"	f
+time_diff	event.c	/^int time_diff( time_ref *tr_start, time_ref *tr_end )$/;"	f
+time_event_list	event.c	/^static struct event *time_event_list = NULL;$/;"	v	typeref:struct:event	file:
+time_future	event.c	/^void time_future( time_ref *tr, int msec )$/;"	f
+time_now	event.c	/^void time_now( time_ref *tr )$/;"	f
+EVENT_ALWAYS	event.h	27;"	d
+EVENT_FD	event.h	26;"	d
+EVENT_F_ENABLED	event.h	30;"	d
+EVENT_F_ONESHOT	event.h	32;"	d
+EVENT_F_REMOVE	event.h	31;"	d
+EVENT_F_RUNNING	event.h	33;"	d
+EVENT_SOFT_QUEUE	event.h	28;"	d
+EVENT_TIME	event.h	25;"	d
+_EVENT_H	event.h	23;"	d
+callback	event.h	/^typedef void (*callback)( struct event_info *e, void *d );$/;"	t
+data	event.h	/^	void *data;$/;"	m	struct:event
+data	event.h	/^	void *data;$/;"	m	struct:event_info
+e	event.h	/^	struct event *e;$/;"	m	struct:event_info	typeref:struct:event_info::event
+empty_se_list	event.h	/^	struct soft_event *empty_se_list;$/;"	m	struct:soft_queue	typeref:struct:soft_queue::soft_event
+ev	event.h	/^	} ev;$/;"	m	struct:event	typeref:union:event::__anon11
+ev_list	event.h	/^	struct event *ev_list;$/;"	m	struct:soft_queue	typeref:struct:soft_queue::event
+event	event.h	/^struct event {$/;"	s
+event_data	event.h	/^	void *event_data;$/;"	m	struct:soft_event
+event_info	event.h	/^struct event_info {$/;"	s
+fd	event.h	/^		struct fd_event fd;$/;"	m	union:event::__anon11	typeref:struct:event::__anon11::fd_event
+fd	event.h	/^	int fd;$/;"	m	struct:fd_event
+fd_event	event.h	/^	struct event *fd_event;$/;"	m	struct:soft_queue	typeref:struct:soft_queue::event
+fd_event	event.h	/^struct fd_event {$/;"	s
+fds	event.h	/^	int fds[2];$/;"	m	struct:soft_queue
+fire	event.h	/^	time_ref fire;$/;"	m	struct:time_event
+flags	event.h	/^	int flags;$/;"	m	struct:event
+func	event.h	/^	callback func;$/;"	m	struct:event
+ival	event.h	/^	int ival;$/;"	m	struct:time_event
+mutex	event.h	/^	pthread_mutex_t mutex;$/;"	m	struct:soft_queue
+next	event.h	/^	struct event *next;$/;"	m	struct:event	typeref:struct:event::event
+next	event.h	/^	struct soft_event *next;$/;"	m	struct:soft_event	typeref:struct:soft_event::soft_event
+prev	event.h	/^	struct event *prev;$/;"	m	struct:event	typeref:struct:event::event
+prev	event.h	/^	struct soft_event *prev;$/;"	m	struct:soft_event	typeref:struct:soft_event::soft_event
+se_list	event.h	/^	struct soft_event *se_list;$/;"	m	struct:soft_queue	typeref:struct:soft_queue::soft_event
+soft_event	event.h	/^struct soft_event {$/;"	s
+soft_queue	event.h	/^struct soft_queue {$/;"	s
+sq	event.h	/^		struct soft_queue *sq;$/;"	m	union:event::__anon11	typeref:struct:event::__anon11::soft_queue
+time	event.h	/^		struct time_event time;$/;"	m	union:event::__anon11	typeref:struct:event::__anon11::time_event
+time_event	event.h	/^struct time_event {$/;"	s
+time_ref	event.h	/^typedef struct timeval time_ref;$/;"	t	typeref:struct:timeval
+type	event.h	/^	int type;$/;"	m	struct:event
+type	event.h	/^	int type;$/;"	m	struct:event_info
+wait	event.h	/^	pthread_cond_t wait;$/;"	m	struct:soft_queue
+write	event.h	/^	int write; \/\/ 0 = read, 1 = write$/;"	m	struct:fd_event
+config_statements	filter-framedrop.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+count	filter-framedrop.c	/^	int count;$/;"	m	struct:framedropper	file:
+do_framedrop	filter-framedrop.c	/^static void do_framedrop( struct frame *input, void *d )$/;"	f	file:
+end_block	filter-framedrop.c	/^static int end_block( void *d )$/;"	f	file:
+framedrop_init	filter-framedrop.c	/^int framedrop_init(void)$/;"	f
+framedropper	filter-framedrop.c	/^struct framedropper {$/;"	s	file:
+get_framerate	filter-framedrop.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+input	filter-framedrop.c	/^	struct stream_destination *input;$/;"	m	struct:framedropper	typeref:struct:framedropper::stream_destination	file:
+output	filter-framedrop.c	/^	struct stream *output;$/;"	m	struct:framedropper	typeref:struct:framedropper::stream	file:
+scale	filter-framedrop.c	/^	int scale;$/;"	m	struct:framedropper	file:
+set_input	filter-framedrop.c	/^static int set_input( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	filter-framedrop.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	filter-framedrop.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+set_scale	filter-framedrop.c	/^static int set_scale( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+start_block	filter-framedrop.c	/^static void *start_block(void)$/;"	f	file:
+clone_destructor	frame.c	/^static int clone_destructor( struct frame *f, void *d )$/;"	f	file:
+clone_frame	frame.c	/^struct frame *clone_frame( struct frame *orig )$/;"	f
+deliver_frame	frame.c	/^void deliver_frame( struct frame_exchanger *ex, struct frame *f )$/;"	f
+exchange_frame	frame.c	/^int exchange_frame( struct frame_exchanger *ex, struct frame *frame )$/;"	f
+exchanger_read	frame.c	/^static void exchanger_read( struct event_info *ei, void *d )$/;"	f	file:
+frame_heap_mutex	frame.c	/^static pthread_mutex_t frame_heap_mutex;$/;"	v	file:
+frame_heap_put	frame.c	/^static struct frame_slot *frame_heap_take = NULL, *frame_heap_put = NULL;$/;"	v	typeref:struct:	file:
+frame_heap_take	frame.c	/^static struct frame_slot *frame_heap_take = NULL, *frame_heap_put = NULL;$/;"	v	typeref:struct:frame_slot	file:
+get_max_frame_size	frame.c	/^int get_max_frame_size(void)$/;"	f
+get_next_frame	frame.c	/^struct frame *get_next_frame( struct frame_exchanger *ex, int wait )$/;"	f
+init_frame_heap	frame.c	/^void init_frame_heap( int size, int count )$/;"	f
+max_frame_size	frame.c	/^static int max_frame_size = 0;$/;"	v	file:
+meter_count	frame.c	/^int meter_count( struct meter *m, int ticks, int *rate )$/;"	f
+meter_get_adjustment	frame.c	/^int meter_get_adjustment( struct meter *m )$/;"	f
+meter_init	frame.c	/^void meter_init( struct meter *m, int fbase, int downstream )$/;"	f
+meter_report_correction	frame.c	/^void meter_report_correction( struct meter *m, int ticks )$/;"	f
+new_exchanger	frame.c	/^struct frame_exchanger *new_exchanger( int slots,$/;"	f
+new_frame	frame.c	/^struct frame *new_frame(void)$/;"	f
+ref_frame	frame.c	/^void ref_frame( struct frame *f )$/;"	f
+unref_frame	frame.c	/^void unref_frame( struct frame *f )$/;"	f
+FORMAT_ALAW	frame.h	29;"	d
+FORMAT_EMPTY	frame.h	19;"	d
+FORMAT_H263	frame.h	27;"	d
+FORMAT_JPEG	frame.h	25;"	d
+FORMAT_MPA	frame.h	28;"	d
+FORMAT_MPEG4	frame.h	24;"	d
+FORMAT_MPV	frame.h	26;"	d
+FORMAT_PCM	frame.h	23;"	d
+FORMAT_RAW_BGR24	frame.h	22;"	d
+FORMAT_RAW_RGB24	frame.h	20;"	d
+FORMAT_RAW_UYVY	frame.h	21;"	d
+avg_slip	frame.h	/^	double avg_slip;$/;"	m	struct:meter
+corrected	frame.h	/^	int corrected;$/;"	m	struct:meter
+correction_rate	frame.h	/^	int correction_rate;$/;"	m	struct:meter
+d	frame.h	/^	unsigned char *d;$/;"	m	struct:frame
+d	frame.h	/^	void *d;$/;"	m	struct:frame_exchanger
+destructor	frame.h	/^	frame_destructor destructor;$/;"	m	struct:frame
+destructor_data	frame.h	/^	void *destructor_data;$/;"	m	struct:frame
+downstream	frame.h	/^	int downstream;$/;"	m	struct:meter
+f	frame.h	/^	frame_deliver_func f;$/;"	m	struct:frame_exchanger
+f	frame.h	/^	struct frame *f;$/;"	m	struct:frame_slot	typeref:struct:frame_slot::frame
+format	frame.h	/^	int format;$/;"	m	struct:frame
+frame	frame.h	/^struct frame$/;"	s
+frame_deliver_func	frame.h	/^typedef void (*frame_deliver_func)( struct frame *f, void *d );$/;"	t
+frame_destructor	frame.h	/^typedef int (*frame_destructor)( struct frame *f, void *d );$/;"	t
+frame_exchanger	frame.h	/^struct frame_exchanger {$/;"	s
+frame_slot	frame.h	/^struct frame_slot {$/;"	s
+height	frame.h	/^	int height;$/;"	m	struct:frame
+key	frame.h	/^	int key;$/;"	m	struct:frame
+last_check	frame.h	/^	time_ref last_check;$/;"	m	struct:meter
+length	frame.h	/^	int length;$/;"	m	struct:frame
+master_event	frame.h	/^	struct event *master_event;$/;"	m	struct:frame_exchanger	typeref:struct:frame_exchanger::event
+master_fd	frame.h	/^	int master_fd;$/;"	m	struct:frame_exchanger
+master_read	frame.h	/^	struct frame_slot *master_read;$/;"	m	struct:frame_exchanger	typeref:struct:frame_exchanger::frame_slot
+master_write	frame.h	/^	struct frame_slot *master_write;$/;"	m	struct:frame_exchanger	typeref:struct:frame_exchanger::frame_slot
+meter	frame.h	/^struct meter {$/;"	s
+mutex	frame.h	/^	pthread_mutex_t mutex; \/* only used to lock the ref_count *\/$/;"	m	struct:frame
+mutex	frame.h	/^	pthread_mutex_t mutex;$/;"	m	struct:frame_exchanger
+next	frame.h	/^	struct frame_slot *next;$/;"	m	struct:frame_slot	typeref:struct:frame_slot::frame_slot
+pending	frame.h	/^	int pending;$/;"	m	struct:frame_slot
+precomp	frame.h	/^	int precomp;$/;"	m	struct:meter
+prev	frame.h	/^	struct frame_slot *prev;$/;"	m	struct:frame_slot	typeref:struct:frame_slot::frame_slot
+rate	frame.h	/^	int rate;$/;"	m	struct:meter
+ref_count	frame.h	/^	int ref_count;$/;"	m	struct:frame
+size	frame.h	/^	int size;$/;"	m	struct:frame
+slave_cur	frame.h	/^	struct frame_slot *slave_cur;$/;"	m	struct:frame_exchanger	typeref:struct:frame_exchanger::frame_slot
+slave_fd	frame.h	/^	int slave_fd;$/;"	m	struct:frame_exchanger
+slave_wait	frame.h	/^	pthread_cond_t slave_wait;$/;"	m	struct:frame_exchanger
+slip	frame.h	/^	double slip;$/;"	m	struct:meter
+started	frame.h	/^	int started;$/;"	m	struct:meter
+step	frame.h	/^	int step;$/;"	m	struct:frame
+ticks	frame.h	/^	int ticks;$/;"	m	struct:meter
+width	frame.h	/^	int width;$/;"	m	struct:frame
+global_statements	global_config.h	/^static struct statement global_statements[] = {$/;"	v	typeref:struct:statement
+add_digest_challenge	http-auth.c	/^int add_digest_challenge( struct pmsg *msg, char *realm, int stale )$/;"	f
+check_digest_response	http-auth.c	/^int check_digest_response( struct pmsg *msg, char *realm,$/;"	f
+create_digest_secret	http-auth.c	/^static void create_digest_secret(void)$/;"	f	file:
+create_nonce	http-auth.c	/^static void create_nonce( struct digest_auth_info *auth )$/;"	f	file:
+create_response	http-auth.c	/^static void create_response( char *response, struct digest_auth_info *auth,$/;"	f	file:
+digest_auth_info	http-auth.c	/^struct digest_auth_info {$/;"	s	file:
+digest_secret	http-auth.c	/^static char digest_secret[17];$/;"	v	file:
+get_hex_u32	http-auth.c	/^static unsigned int get_hex_u32( char *hex )$/;"	f	file:
+md5_hash	http-auth.c	/^static void md5_hash( char **v, int count, char *hash )$/;"	f	file:
+nonce	http-auth.c	/^	char nonce[128];$/;"	m	struct:digest_auth_info	file:
+opaque	http-auth.c	/^	char opaque[128];$/;"	m	struct:digest_auth_info	file:
+parse_auth_header	http-auth.c	/^static int parse_auth_header( char *header, struct digest_auth_info *auth )$/;"	f	file:
+realm	http-auth.c	/^	char realm[128];$/;"	m	struct:digest_auth_info	file:
+response	http-auth.c	/^	char response[33];$/;"	m	struct:digest_auth_info	file:
+secret_created	http-auth.c	/^static int secret_created = 0;$/;"	v	file:
+uri	http-auth.c	/^	char uri[512];$/;"	m	struct:digest_auth_info	file:
+username	http-auth.c	/^	char username[128];$/;"	m	struct:digest_auth_info	file:
+add_http_stream_session	http.c	/^static void add_http_stream_session( struct http_location *loc, struct conn *c )$/;"	f	file:
+config_statements	http.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+conn	http.c	/^	struct conn *conn;$/;"	m	struct:http_stream_session	typeref:struct:http_stream_session::conn	file:
+end_block	http.c	/^static int end_block( void *d )$/;"	f	file:
+find_http_location	http.c	/^static struct http_location *find_http_location( char *path )$/;"	f	file:
+frame	http.c	/^	struct frame *frame;$/;"	m	struct:http_location	typeref:struct:http_location::frame	file:
+handle_GET	http.c	/^static int handle_GET( struct req *req )$/;"	f	file:
+handle_unknown	http.c	/^static int handle_unknown( struct req *req )$/;"	f	file:
+http_conn_disconnect	http.c	/^void http_conn_disconnect( struct conn *c )$/;"	f
+http_create_reply	http.c	/^static void http_create_reply( struct req *req, int code, char *reply )$/;"	f	file:
+http_handle_msg	http.c	/^int http_handle_msg( struct req *req )$/;"	f
+http_init	http.c	/^int http_init(void)$/;"	f
+http_loc_list	http.c	/^static struct http_location *http_loc_list = NULL;$/;"	v	typeref:struct:http_location	file:
+http_location	http.c	/^struct http_location {$/;"	s	file:
+http_send_error	http.c	/^static void http_send_error( struct req *req, int code, char *reply, char *t )$/;"	f	file:
+http_stream_session	http.c	/^struct http_stream_session {$/;"	s	file:
+init_location	http.c	/^static void init_location( struct loc_node *node, char *path,$/;"	f	file:
+input	http.c	/^	struct stream_destination *input;$/;"	m	struct:http_location	typeref:struct:http_location::stream_destination	file:
+jpeg_next_frame	http.c	/^static void jpeg_next_frame( struct frame *f, void *d )$/;"	f	file:
+length_with_jfif	http.c	/^	int length_with_jfif;$/;"	m	struct:http_location	file:
+loc	http.c	/^	struct http_location *loc;$/;"	m	struct:http_stream_session	typeref:struct:http_stream_session::http_location	file:
+log_request	http.c	/^static void log_request( struct req *req, int code, int length )$/;"	f	file:
+next	http.c	/^	struct http_stream_session *next;$/;"	m	struct:http_stream_session	typeref:struct:http_stream_session::http_stream_session	file:
+node	http.c	/^	struct loc_node node;$/;"	m	struct:http_location	typeref:struct:http_location::loc_node	file:
+node_find_location	http.c	/^static struct loc_node *node_find_location( struct loc_node *list,$/;"	f	file:
+prev	http.c	/^	struct http_stream_session *prev;$/;"	m	struct:http_stream_session	typeref:struct:http_stream_session::http_stream_session	file:
+send_frame_with_jfif	http.c	/^static void send_frame_with_jfif( struct http_location *loc, struct conn *c )$/;"	f	file:
+send_multipart_frame	http.c	/^static void send_multipart_frame( struct http_location *loc, struct conn *c )$/;"	f	file:
+sess_list	http.c	/^	struct http_stream_session *sess_list;$/;"	m	struct:http_location	typeref:struct:http_location::http_stream_session	file:
+set_input	http.c	/^static int set_input( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_mode	http.c	/^static int set_mode( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_path	http.c	/^static int set_path( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+start_block	http.c	/^static void *start_block(void)$/;"	f	file:
+streaming	http.c	/^	int streaming;$/;"	m	struct:http_location	file:
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+HEIGHT	input-dc1394.c	40;"	d	file:
+WIDTH	input-dc1394.c	39;"	d	file:
+cam	input-dc1394.c	/^	struct dc1394_cam cam[16];$/;"	m	struct:dc1394_input	typeref:struct:dc1394_input::dc1394_cam	file:
+cam_count	input-dc1394.c	/^	int cam_count;$/;"	m	struct:dc1394_input	file:
+cam_setup	input-dc1394.c	/^static int cam_setup( struct dc1394_input *conf, int cam, int port,$/;"	f	file:
+camera	input-dc1394.c	/^	dc1394_cameracapture camera[16];$/;"	m	struct:dc1394_input	file:
+capture_loop	input-dc1394.c	/^static void *capture_loop( void *d )$/;"	f	file:
+config_statements	input-dc1394.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+dc1394_cam	input-dc1394.c	/^struct dc1394_cam {$/;"	s	file:
+dc1394_init	input-dc1394.c	/^void dc1394_init(void)$/;"	f
+dc1394_input	input-dc1394.c	/^struct dc1394_input {$/;"	s	file:
+dc1394_setup	input-dc1394.c	/^static int dc1394_setup( struct dc1394_input *conf )$/;"	f	file:
+end_block	input-dc1394.c	/^static int end_block( void *d )$/;"	f	file:
+get_back_frame	input-dc1394.c	/^static void get_back_frame( struct event_info *ei, void *d )$/;"	f	file:
+get_framerate	input-dc1394.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+handle	input-dc1394.c	/^	raw1394handle_t handle;$/;"	m	struct:dc1394_cam	file:
+output	input-dc1394.c	/^	struct stream *output;$/;"	m	struct:dc1394_cam	typeref:struct:dc1394_cam::stream	file:
+outq	input-dc1394.c	/^	struct soft_queue *outq;$/;"	m	struct:dc1394_cam	typeref:struct:dc1394_cam::soft_queue	file:
+running	input-dc1394.c	/^	int running;$/;"	m	struct:dc1394_cam	file:
+set_output	input-dc1394.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	input-dc1394.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	input-dc1394.c	/^static void *start_block(void)$/;"	f	file:
+thread	input-dc1394.c	/^	pthread_t thread;$/;"	m	struct:dc1394_input	file:
+capture_loop	input-oss.c	/^static void *capture_loop( void *d )$/;"	f	file:
+channels	input-oss.c	/^	int channels;$/;"	m	struct:oss_input	file:
+config_statements	input-oss.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+device	input-oss.c	/^	char device[256];$/;"	m	struct:oss_input	file:
+end_block	input-oss.c	/^static int end_block( void *d )$/;"	f	file:
+fd	input-oss.c	/^	int fd;$/;"	m	struct:oss_input	file:
+get_back_frame	input-oss.c	/^static void get_back_frame( struct event_info *ei, void *d )$/;"	f	file:
+get_framerate	input-oss.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+oss_init	input-oss.c	/^void oss_init(void)$/;"	f
+oss_input	input-oss.c	/^struct oss_input {$/;"	s	file:
+output	input-oss.c	/^	struct stream *output;$/;"	m	struct:oss_input	typeref:struct:oss_input::stream	file:
+queue	input-oss.c	/^	struct soft_queue *queue;$/;"	m	struct:oss_input	typeref:struct:oss_input::soft_queue	file:
+rate	input-oss.c	/^	int rate;$/;"	m	struct:oss_input	file:
+ring	input-oss.c	/^	struct audio_ring *ring;$/;"	m	struct:oss_input	typeref:struct:oss_input::audio_ring	file:
+running	input-oss.c	/^	int running;$/;"	m	struct:oss_input	file:
+set_device	input-oss.c	/^static int set_device( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	input-oss.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	input-oss.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+set_samplerate	input-oss.c	/^static int set_samplerate( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+start_block	input-oss.c	/^static void *start_block(void)$/;"	f	file:
+thread	input-oss.c	/^	pthread_t thread;$/;"	m	struct:oss_input	file:
+INPUTTYPE_NTSC	input-v4l.c	50;"	d	file:
+INPUTTYPE_PAL	input-v4l.c	51;"	d	file:
+INPUTTYPE_WEBCAM	input-v4l.c	49;"	d	file:
+capture_loop	input-v4l.c	/^static void *capture_loop( void *d )$/;"	f	file:
+config_statements	input-v4l.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+copy_yuv420p_to_uyvy	input-v4l.c	/^static void copy_yuv420p_to_uyvy( unsigned char *dest, unsigned char *src,$/;"	f	file:
+cur_frame	input-v4l.c	/^	int cur_frame;$/;"	m	struct:v4l_input	file:
+device	input-v4l.c	/^	char device[256];$/;"	m	struct:v4l_input	file:
+end_block	input-v4l.c	/^static int end_block( void *d )$/;"	f	file:
+ex	input-v4l.c	/^	struct frame_exchanger *ex;$/;"	m	struct:v4l_input	typeref:struct:v4l_input::frame_exchanger	file:
+fbase	input-v4l.c	/^	int fbase;$/;"	m	struct:v4l_input	file:
+fd	input-v4l.c	/^	int fd;$/;"	m	struct:v4l_input	file:
+fincr	input-v4l.c	/^	int fincr;$/;"	m	struct:v4l_input	file:
+fps	input-v4l.c	/^	int fps;$/;"	m	struct:v4l_input	file:
+get_back_frame	input-v4l.c	/^static void get_back_frame( struct frame *f, void *d )$/;"	f	file:
+get_framerate	input-v4l.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+height	input-v4l.c	/^	int height;$/;"	m	struct:v4l_input	file:
+inputport	input-v4l.c	/^	int inputport;$/;"	m	struct:v4l_input	file:
+inputtype	input-v4l.c	/^	int inputtype;$/;"	m	struct:v4l_input	file:
+mmap_buf	input-v4l.c	/^	unsigned char *mmap_buf;$/;"	m	struct:v4l_input	file:
+output	input-v4l.c	/^	struct stream *output;$/;"	m	struct:v4l_input	typeref:struct:v4l_input::stream	file:
+pwc_whitebalance	input-v4l.c	/^	struct pwc_whitebalance pwc_whitebalance;$/;"	m	struct:v4l_input	typeref:struct:v4l_input::pwc_whitebalance	file:
+running	input-v4l.c	/^	int running;$/;"	m	struct:v4l_input	file:
+set_device	input-v4l.c	/^static int set_device( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_framerate_num	input-v4l.c	/^static int set_framerate_num( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_framerate_str	input-v4l.c	/^static int set_framerate_str( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_framesize	input-v4l.c	/^static int set_framesize( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_inputport	input-v4l.c	/^static int set_inputport( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_inputtype	input-v4l.c	/^static int set_inputtype( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	input-v4l.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_pwc_whitebalance_num	input-v4l.c	/^static int set_pwc_whitebalance_num( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_pwc_whitebalance_str	input-v4l.c	/^static int set_pwc_whitebalance_str( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	input-v4l.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	input-v4l.c	/^static void *start_block(void)$/;"	f	file:
+thread	input-v4l.c	/^	pthread_t thread;$/;"	m	struct:v4l_input	file:
+v4l_init	input-v4l.c	/^void v4l_init(void)$/;"	f
+v4l_input	input-v4l.c	/^struct v4l_input {$/;"	s	file:
+v4l_setup	input-v4l.c	/^static int v4l_setup( struct v4l_input *conf )$/;"	f	file:
+vm	input-v4l.c	/^	struct video_mbuf vm;$/;"	m	struct:v4l_input	typeref:struct:v4l_input::video_mbuf	file:
+width	input-v4l.c	/^	int width;$/;"	m	struct:v4l_input	file:
+INPUTTYPE_NTSC	input-v4l2.c	50;"	d	file:
+INPUTTYPE_PAL	input-v4l2.c	51;"	d	file:
+INPUTTYPE_WEBCAM	input-v4l2.c	49;"	d	file:
+bitrate	input-v4l2.c	/^	int bitrate;$/;"	m	struct:v4l2_spook_input	file:
+bufaddr	input-v4l2.c	/^	void *bufaddr[2];$/;"	m	struct:v4l2_spook_input	file:
+capture_loop	input-v4l2.c	/^static void *capture_loop( void *d )$/;"	f	file:
+config_statements	input-v4l2.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+device	input-v4l2.c	/^	char device[256];$/;"	m	struct:v4l2_spook_input	file:
+end_block	input-v4l2.c	/^static int end_block( void *d )$/;"	f	file:
+ex	input-v4l2.c	/^	struct frame_exchanger *ex;$/;"	m	struct:v4l2_spook_input	typeref:struct:v4l2_spook_input::frame_exchanger	file:
+fbase	input-v4l2.c	/^	int fbase;$/;"	m	struct:v4l2_spook_input	file:
+fd	input-v4l2.c	/^	int fd;$/;"	m	struct:v4l2_spook_input	file:
+fincr	input-v4l2.c	/^	int fincr;$/;"	m	struct:v4l2_spook_input	file:
+format	input-v4l2.c	/^	int format;$/;"	m	struct:v4l2_spook_input	file:
+fps	input-v4l2.c	/^	int fps;$/;"	m	struct:v4l2_spook_input	file:
+get_back_frame	input-v4l2.c	/^static void get_back_frame( struct frame *f, void *d )$/;"	f	file:
+get_framerate	input-v4l2.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+height	input-v4l2.c	/^	int height;$/;"	m	struct:v4l2_spook_input	file:
+inputport	input-v4l2.c	/^	int inputport;$/;"	m	struct:v4l2_spook_input	file:
+inputtype	input-v4l2.c	/^	int inputtype;$/;"	m	struct:v4l2_spook_input	file:
+output	input-v4l2.c	/^	struct stream *output;$/;"	m	struct:v4l2_spook_input	typeref:struct:v4l2_spook_input::stream	file:
+running	input-v4l2.c	/^	int running;$/;"	m	struct:v4l2_spook_input	file:
+set_bitrate	input-v4l2.c	/^static int set_bitrate( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_device	input-v4l2.c	/^static int set_device( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_format	input-v4l2.c	/^static int set_format( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_framerate_num	input-v4l2.c	/^static int set_framerate_num( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_framerate_str	input-v4l2.c	/^static int set_framerate_str( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_framesize	input-v4l2.c	/^static int set_framesize( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_inputport	input-v4l2.c	/^static int set_inputport( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_inputtype	input-v4l2.c	/^static int set_inputtype( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_output	input-v4l2.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	input-v4l2.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	input-v4l2.c	/^static void *start_block(void)$/;"	f	file:
+thread	input-v4l2.c	/^	pthread_t thread;$/;"	m	struct:v4l2_spook_input	file:
+v4l2_init	input-v4l2.c	/^void v4l2_init(void)$/;"	f
+v4l2_setup	input-v4l2.c	/^static int v4l2_setup( struct v4l2_spook_input *conf )$/;"	f	file:
+v4l2_spook_input	input-v4l2.c	/^struct v4l2_spook_input {$/;"	s	file:
+width	input-v4l2.c	/^	int width;$/;"	m	struct:v4l2_spook_input	file:
+HEIGHT	input-vdig.c	38;"	d	file:
+WIDTH	input-vdig.c	37;"	d	file:
+capture_loop	input-vdig.c	/^static void *capture_loop( void *d )$/;"	f	file:
+ci	input-vdig.c	/^	VideoDigitizerComponent ci;$/;"	m	struct:vdig_input	file:
+config_statements	input-vdig.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+end_block	input-vdig.c	/^static int end_block( void *d )$/;"	f	file:
+ex	input-vdig.c	/^	struct frame_exchanger *ex;$/;"	m	struct:vdig_input	typeref:struct:vdig_input::frame_exchanger	file:
+get_back_frame	input-vdig.c	/^static void get_back_frame( struct frame *f, void *d )$/;"	f	file:
+get_framerate	input-vdig.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+output	input-vdig.c	/^	struct stream *output;$/;"	m	struct:vdig_input	typeref:struct:vdig_input::stream	file:
+running	input-vdig.c	/^	int running;$/;"	m	struct:vdig_input	file:
+set_output	input-vdig.c	/^static int set_output( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_running	input-vdig.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+start_block	input-vdig.c	/^static void *start_block(void)$/;"	f	file:
+thread	input-vdig.c	/^	pthread_t thread;$/;"	m	struct:vdig_input	file:
+vdig_init	input-vdig.c	/^void vdig_init(void)$/;"	f
+vdig_input	input-vdig.c	/^struct vdig_input {$/;"	s	file:
+vdig_setup	input-vdig.c	/^static int vdig_setup( struct vdig_input *conf )$/;"	f	file:
+chm_ac_codelens	jpeg_tables.h	/^static unsigned char chm_ac_codelens[] = {$/;"	v
+chm_ac_symbols	jpeg_tables.h	/^static unsigned char chm_ac_symbols[] = {$/;"	v
+chm_dc_codelens	jpeg_tables.h	/^static unsigned char chm_dc_codelens[] = {$/;"	v
+chm_dc_symbols	jpeg_tables.h	/^static unsigned char chm_dc_symbols[] = {$/;"	v
+jpeg_chroma_quantizer	jpeg_tables.h	/^static int jpeg_chroma_quantizer[64] = {$/;"	v
+jpeg_luma_quantizer	jpeg_tables.h	/^static int jpeg_luma_quantizer[64] = {$/;"	v
+lum_ac_codelens	jpeg_tables.h	/^static unsigned char lum_ac_codelens[] = {$/;"	v
+lum_ac_symbols	jpeg_tables.h	/^static unsigned char lum_ac_symbols[] = {$/;"	v
+lum_dc_codelens	jpeg_tables.h	/^static unsigned char lum_dc_codelens[] = {$/;"	v
+lum_dc_symbols	jpeg_tables.h	/^static unsigned char lum_dc_symbols[] = {$/;"	v
+config_statements	live.c	/^static struct statement config_statements[] = {$/;"	v	typeref:struct:statement	file:
+end_block	live.c	/^static int end_block( void *d )$/;"	f	file:
+index	live.c	/^	int index;$/;"	m	struct:live_track	file:
+live_get_sdp	live.c	/^static int live_get_sdp( struct session *s, char *dest, int *len,$/;"	f	file:
+live_init	live.c	/^int live_init(void)$/;"	f
+live_open	live.c	/^static struct session *live_open( char *path, void *d )$/;"	f	file:
+live_play	live.c	/^static void live_play( struct session *s, double *start )$/;"	f	file:
+live_session	live.c	/^struct live_session {$/;"	s	file:
+live_setup	live.c	/^static int live_setup( struct session *s, int t )$/;"	f	file:
+live_source	live.c	/^struct live_source {$/;"	s	file:
+live_teardown	live.c	/^static void live_teardown( struct session *s, struct rtp_endpoint *ep )$/;"	f	file:
+live_track	live.c	/^struct live_track {$/;"	s	file:
+next	live.c	/^	struct live_session *next;$/;"	m	struct:live_session	typeref:struct:live_session::live_session	file:
+next_live_frame	live.c	/^static void next_live_frame( struct frame *f, void *d )$/;"	f	file:
+playing	live.c	/^	int playing;$/;"	m	struct:live_session	file:
+prev	live.c	/^	struct live_session *prev;$/;"	m	struct:live_session	typeref:struct:live_session::live_session	file:
+ready	live.c	/^	int ready;$/;"	m	struct:live_track	file:
+rtp	live.c	/^	struct rtp_media *rtp;$/;"	m	struct:live_track	typeref:struct:live_track::rtp_media	file:
+sess	live.c	/^	struct session *sess;$/;"	m	struct:live_session	typeref:struct:live_session::session	file:
+sess_list	live.c	/^	struct live_session *sess_list;$/;"	m	struct:live_source	typeref:struct:live_source::live_session	file:
+set_path	live.c	/^static int set_path( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+set_track	live.c	/^static int set_track( int num_tokens, struct token *tokens, void *d )$/;"	f	file:
+source	live.c	/^	struct live_source *source;$/;"	m	struct:live_session	typeref:struct:live_session::live_source	file:
+source	live.c	/^	struct live_source *source;$/;"	m	struct:live_track	typeref:struct:live_track::live_source	file:
+start_block	live.c	/^static void *start_block(void)$/;"	f	file:
+stream	live.c	/^	struct stream_destination *stream;$/;"	m	struct:live_track	typeref:struct:live_track::stream_destination	file:
+track	live.c	/^	struct live_track track[MAX_TRACKS];$/;"	m	struct:live_source	typeref:struct:live_source::live_track	file:
+track_check_running	live.c	/^static void track_check_running( struct live_source *source, int t )$/;"	f	file:
+LOG_BUFFER_SIZE	log.c	26;"	d	file:
+log_mutex	log.c	/^static pthread_mutex_t log_mutex;$/;"	v	file:
+minlevel	log.c	/^static int spookpid, minlevel;$/;"	v	file:
+month	log.c	/^static const char *month[] = {	"Jan", "Feb", "Mar", "Apr", "May", "Jun",$/;"	v	file:
+rb_data	log.c	/^static char *rb_data;$/;"	v	file:
+rb_in	log.c	/^static int rb_in, rb_out, rb_size;$/;"	v	file:
+rb_out	log.c	/^static int rb_in, rb_out, rb_size;$/;"	v	file:
+rb_size	log.c	/^static int rb_in, rb_out, rb_size;$/;"	v	file:
+send_log_buffer	log.c	/^void send_log_buffer( int fd )$/;"	f
+spook_log	log.c	/^void spook_log( int level, char *fmt, ... )$/;"	f
+spook_log_init	log.c	/^int spook_log_init( int min )$/;"	f
+spookpid	log.c	/^static int spookpid, minlevel;$/;"	v	file:
+SL_DEBUG	log.h	19;"	d
+SL_ERR	log.h	23;"	d
+SL_INFO	log.h	21;"	d
+SL_VERBOSE	log.h	20;"	d
+SL_WARN	log.h	22;"	d
+F1	md5.c	167;"	d	file:
+F2	md5.c	168;"	d	file:
+F3	md5.c	169;"	d	file:
+F4	md5.c	170;"	d	file:
+MD5Final	md5.c	/^void MD5Final(unsigned char digest[16], struct MD5Context *ctx)$/;"	f
+MD5Init	md5.c	/^void MD5Init(struct MD5Context *ctx)$/;"	f
+MD5STEP	md5.c	173;"	d	file:
+MD5Transform	md5.c	/^void MD5Transform(u32 buf[4], u32 const in[16])$/;"	f
+MD5Update	md5.c	/^void MD5Update(struct MD5Context *ctx, unsigned char const *buf, unsigned len)$/;"	f
+WORDS_BIGENDIAN	md5.c	26;"	d	file:
+byteReverse	md5.c	/^void byteReverse(unsigned char *buf, unsigned longs)$/;"	f
+byteReverse	md5.c	32;"	d	file:
+MD5Context	md5.h	/^struct MD5Context {$/;"	s
+MD5_CTX	md5.h	/^typedef struct MD5Context MD5_CTX;$/;"	t	typeref:struct:MD5Context
+MD5_H	md5.h	2;"	d
+bits	md5.h	/^	u32 bits[2];$/;"	m	struct:MD5Context
+buf	md5.h	/^	u32 buf[4];$/;"	m	struct:MD5Context
+in	md5.h	/^	u8 in[64];$/;"	m	struct:MD5Context
+u32	md5.h	/^typedef unsigned int u32;$/;"	t
+u8	md5.h	/^typedef unsigned char u8;$/;"	t
+MPA_encode_frame	mpegaudio.c	/^int MPA_encode_frame(MpegAudioContext *s, unsigned char *frame, int buf_size,$/;"	f
+MPA_encode_init	mpegaudio.c	/^int MPA_encode_init(MpegAudioContext *s, int freq, int bitrate, int channels)$/;"	f
+SB_ALLOCATED	mpegaudio.c	760;"	d	file:
+SB_NOMORE	mpegaudio.c	761;"	d	file:
+SB_NOTALLOCATED	mpegaudio.c	759;"	d	file:
+WSHIFT	mpegaudio.c	574;"	d	file:
+align_put_bits	mpegaudio.c	/^void align_put_bits(PutBitContext *s)$/;"	f
+alloc_table_0	mpegaudio.c	/^static const unsigned char alloc_table_0[] = {$/;"	v	file:
+alloc_table_1	mpegaudio.c	/^static const unsigned char alloc_table_1[] = {$/;"	v	file:
+alloc_table_2	mpegaudio.c	/^static const unsigned char alloc_table_2[] = {$/;"	v	file:
+alloc_table_3	mpegaudio.c	/^static const unsigned char alloc_table_3[] = {$/;"	v	file:
+alloc_table_4	mpegaudio.c	/^static const unsigned char alloc_table_4[] = {$/;"	v	file:
+alloc_tables	mpegaudio.c	/^const unsigned char *alloc_tables[5] = $/;"	v
+compute_bit_allocation	mpegaudio.c	/^static void compute_bit_allocation(MpegAudioContext *s, $/;"	f	file:
+compute_scale_factors	mpegaudio.c	/^static void compute_scale_factors(unsigned char scale_code[SBLIMIT],$/;"	f	file:
+encode_frame	mpegaudio.c	/^static void encode_frame(MpegAudioContext *s,$/;"	f	file:
+ff_log2_tab	mpegaudio.c	/^const uint8_t ff_log2_tab[256]={$/;"	v
+ff_sqrt_tab	mpegaudio.c	/^const uint8_t ff_sqrt_tab[128]={$/;"	v
+filter	mpegaudio.c	/^static void filter(MpegAudioContext *s, int ch, short *samples, int incr)$/;"	f	file:
+flush_put_bits	mpegaudio.c	/^void flush_put_bits(PutBitContext *s)$/;"	f
+get_bit_count	mpegaudio.c	/^int get_bit_count(PutBitContext *s)$/;"	f
+idct32	mpegaudio.c	/^static void idct32(int *out, int *tab)$/;"	f	file:
+init_put_bits	mpegaudio.c	/^void init_put_bits(PutBitContext *s, uint8_t *buffer, int buffer_size)$/;"	f
+l2_select_table	mpegaudio.c	/^int l2_select_table(int bitrate, int nb_channels, int freq, int lsf)$/;"	f
+mpa_bitrate_tab	mpegaudio.c	/^const uint16_t mpa_bitrate_tab[2][3][15] = {$/;"	v
+mpa_enwindow	mpegaudio.c	/^const int32_t mpa_enwindow[257] = {$/;"	v
+mpa_freq_tab	mpegaudio.c	/^const uint16_t mpa_freq_tab[3] = { 44100, 48000, 32000 };$/;"	v
+psycho_acoustic_model	mpegaudio.c	/^static void psycho_acoustic_model(MpegAudioContext *s, short smr[SBLIMIT])$/;"	f	file:
+put_string	mpegaudio.c	/^void put_string(PutBitContext * pbc, char *s)$/;"	f
+quant_bits	mpegaudio.c	/^const int quant_bits[17] = {$/;"	v
+quant_steps	mpegaudio.c	/^const int quant_steps[17] = {$/;"	v
+sblimit_table	mpegaudio.c	/^const int sblimit_table[5] = { 27 , 30 , 8, 12 , 30 };$/;"	v
+ALT_BITSTREAM_READER	mpegaudio.h	9;"	d
+FIX	mpegaudio.h	385;"	d
+FRAC_BITS	mpegaudio.h	382;"	d
+LIBMPEG2_BITSTREAM_READER_HACK	mpegaudio.h	12;"	d
+MANGLE	mpegaudio.h	61;"	d
+MANGLE	mpegaudio.h	63;"	d
+MPA_DUAL	mpegaudio.h	354;"	d
+MPA_FRAME_SIZE	mpegaudio.h	343;"	d
+MPA_JSTEREO	mpegaudio.h	353;"	d
+MPA_MAX_CHANNELS	mpegaudio.h	348;"	d
+MPA_MAX_CODED_FRAME_SIZE	mpegaudio.h	346;"	d
+MPA_MONO	mpegaudio.h	355;"	d
+MPA_STEREO	mpegaudio.h	352;"	d
+MUL	mpegaudio.h	384;"	d
+M_PI	mpegaudio.h	22;"	d
+MpegAudioContext	mpegaudio.h	/^typedef struct MpegAudioContext {$/;"	s
+MpegAudioContext	mpegaudio.h	/^} MpegAudioContext;$/;"	t	typeref:struct:MpegAudioContext
+NEG_USR32	mpegaudio.h	66;"	d
+PutBitContext	mpegaudio.h	/^typedef struct PutBitContext {$/;"	s
+PutBitContext	mpegaudio.h	/^} PutBitContext;$/;"	t	typeref:struct:PutBitContext
+SAMPLES_BUF_SIZE	mpegaudio.h	467;"	d
+SBLIMIT	mpegaudio.h	350;"	d
+SQRT2	mpegaudio.h	378;"	d
+WFRAC_BITS	mpegaudio.h	383;"	d
+WriteDataFunc	mpegaudio.h	/^typedef void (*WriteDataFunc)(void *, uint8_t *, int);$/;"	t
+alloc_table	mpegaudio.h	/^    const unsigned char *alloc_table;$/;"	m	struct:MpegAudioContext
+always_inline	mpegaudio.h	33;"	d
+always_inline	mpegaudio.h	35;"	d
+av_log2	mpegaudio.h	/^static inline int av_log2(unsigned int v)$/;"	f
+av_log2_16bit	mpegaudio.h	/^static inline int av_log2_16bit(unsigned int v)$/;"	f
+bit_rate	mpegaudio.h	/^    int freq, bit_rate;$/;"	m	struct:MpegAudioContext
+bitinv32	mpegaudio.h	/^static const int bitinv32[32] = {$/;"	v
+bitrate_index	mpegaudio.h	/^    int bitrate_index; \/* bit rate *\/$/;"	m	struct:MpegAudioContext
+buf	mpegaudio.h	/^    uint8_t *buf, *buf_end;$/;"	m	struct:PutBitContext
+buf_end	mpegaudio.h	/^    uint8_t *buf, *buf_end;$/;"	m	struct:PutBitContext
+clip	mpegaudio.h	/^static inline int clip(int a, int amin, int amax)$/;"	f
+costab32	mpegaudio.h	/^static const int costab32[30] = {$/;"	v
+do_padding	mpegaudio.h	/^    int frame_frac, frame_frac_incr, do_padding;$/;"	m	struct:MpegAudioContext
+ff_sqrt	mpegaudio.h	/^static inline int ff_sqrt(int a)$/;"	f
+filter_bank	mpegaudio.h	/^static int16_t filter_bank[512];$/;"	v
+fixed_smr	mpegaudio.h	/^static const float fixed_smr[SBLIMIT] =  {$/;"	v
+frame_frac	mpegaudio.h	/^    int frame_frac, frame_frac_incr, do_padding;$/;"	m	struct:MpegAudioContext
+frame_frac_incr	mpegaudio.h	/^    int frame_frac, frame_frac_incr, do_padding;$/;"	m	struct:MpegAudioContext
+frame_size	mpegaudio.h	/^    int frame_size; \/* frame size, in bits, without padding *\/$/;"	m	struct:MpegAudioContext
+freq	mpegaudio.h	/^    int freq, bit_rate;$/;"	m	struct:MpegAudioContext
+freq_index	mpegaudio.h	/^    int freq_index;$/;"	m	struct:MpegAudioContext
+index	mpegaudio.h	/^    int index;$/;"	m	struct:PutBitContext
+int16_t	mpegaudio.h	/^    typedef signed short int16_t;$/;"	t
+int32_t	mpegaudio.h	/^    typedef signed int   int32_t;$/;"	t
+int64_t	mpegaudio.h	/^    typedef signed long long   int64_t;$/;"	t
+int64_t_C	mpegaudio.h	53;"	d
+int8_t	mpegaudio.h	/^    typedef signed char  int8_t;$/;"	t
+lsf	mpegaudio.h	/^    int lsf;           \/* 1 if mpeg2 low bitrate selected *\/$/;"	m	struct:MpegAudioContext
+mid_pred	mpegaudio.h	/^static inline int mid_pred(int a, int b, int c)$/;"	f
+nb_channels	mpegaudio.h	/^    int nb_channels;$/;"	m	struct:MpegAudioContext
+nb_scale_factors	mpegaudio.h	/^static const unsigned char nb_scale_factors[4] = { 3, 2, 1, 2 };$/;"	v
+offsetof	mpegaudio.h	27;"	d
+pb	mpegaudio.h	/^    PutBitContext pb;$/;"	m	struct:MpegAudioContext
+pbBufPtr	mpegaudio.h	/^static inline uint8_t* pbBufPtr(PutBitContext *s)$/;"	f
+put_bits	mpegaudio.h	/^static inline void put_bits(PutBitContext *s, int n, unsigned int value)$/;"	f
+quant_snr	mpegaudio.h	/^static unsigned short quant_snr[17] = { $/;"	v
+restrict	mpegaudio.h	30;"	d
+samples_buf	mpegaudio.h	/^    short samples_buf[MPA_MAX_CHANNELS][SAMPLES_BUF_SIZE]; \/* buffer for filter *\/$/;"	m	struct:MpegAudioContext
+samples_offset	mpegaudio.h	/^    int samples_offset[MPA_MAX_CHANNELS];       \/* offset in samples_buf *\/$/;"	m	struct:MpegAudioContext
+sb_samples	mpegaudio.h	/^    int sb_samples[MPA_MAX_CHANNELS][3][12][SBLIMIT];$/;"	m	struct:MpegAudioContext
+sblimit	mpegaudio.h	/^    int sblimit; \/* number of used subbands *\/$/;"	m	struct:MpegAudioContext
+scale_code	mpegaudio.h	/^    unsigned char scale_code[MPA_MAX_CHANNELS][SBLIMIT];       $/;"	m	struct:MpegAudioContext
+scale_diff_table	mpegaudio.h	/^static unsigned char scale_diff_table[128];$/;"	v
+scale_factor_inv_table	mpegaudio.h	/^static float scale_factor_inv_table[64];$/;"	v
+scale_factor_mult	mpegaudio.h	/^static unsigned short scale_factor_mult[64];$/;"	v
+scale_factor_shift	mpegaudio.h	/^static int8_t scale_factor_shift[64];$/;"	v
+scale_factor_table	mpegaudio.h	/^static int scale_factor_table[64];$/;"	v
+scale_factors	mpegaudio.h	/^    unsigned char scale_factors[MPA_MAX_CHANNELS][SBLIMIT][3]; \/* scale factors *\/$/;"	m	struct:MpegAudioContext
+total_quant_bits	mpegaudio.h	/^static unsigned short total_quant_bits[17];$/;"	v
+uint16_t	mpegaudio.h	/^    typedef unsigned short uint16_t;$/;"	t
+uint32_t	mpegaudio.h	/^    typedef unsigned int   uint32_t;$/;"	t
+uint64_t	mpegaudio.h	/^    typedef unsigned long long uint64_t;$/;"	t
+uint64_t_C	mpegaudio.h	54;"	d
+uint8_t	mpegaudio.h	/^    typedef unsigned char  uint8_t;$/;"	t
+add_header	pmsg.c	/^int add_header( struct pmsg *msg, char *name, char *value )$/;"	f
+add_header_printf	pmsg.c	/^int add_header_printf( struct pmsg *msg, char *name, char *fmt, ... )$/;"	f
+add_pmsg_string	pmsg.c	/^char *add_pmsg_string( struct pmsg *msg, char *s )$/;"	f
+copy_headers	pmsg.c	/^int copy_headers( struct pmsg *dest, struct pmsg *src, char *name )$/;"	f
+delim	pmsg.c	/^static int inline delim( char *d, int len, char term1, char term2 )$/;"	f	file:
+free_pmsg	pmsg.c	/^void free_pmsg( struct pmsg *msg )$/;"	f
+get_header	pmsg.c	/^char *get_header( struct pmsg *msg, char *name )$/;"	f
+get_param	pmsg.c	/^int get_param( char *value, char *tag, char *dest, int size )$/;"	f
+new_pmsg	pmsg.c	/^struct pmsg *new_pmsg( int size )$/;"	f
+parse_pmsg	pmsg.c	/^int parse_pmsg( struct pmsg *msg )$/;"	f
+replace_header	pmsg.c	/^int replace_header( struct pmsg *msg, char *name, char *value )$/;"	f
+MAX_FIELDS	pmsg.h	6;"	d
+PMSG_REQ	pmsg.h	/^	enum { PMSG_REQ, PMSG_RESP } type;$/;"	e	enum:pmsg::__anon7
+PMSG_RESP	pmsg.h	/^	enum { PMSG_REQ, PMSG_RESP } type;$/;"	e	enum:pmsg::__anon7
+code	pmsg.h	/^			int code;$/;"	m	struct:pmsg::__anon8::__anon10
+fields	pmsg.h	/^	struct hdrf fields[MAX_FIELDS];$/;"	m	struct:pmsg	typeref:struct:pmsg::hdrf
+hdrf	pmsg.h	/^struct hdrf {$/;"	s
+header_count	pmsg.h	/^	int header_count;$/;"	m	struct:pmsg
+max_len	pmsg.h	/^	int max_len;$/;"	m	struct:pmsg
+method	pmsg.h	/^			char *method;$/;"	m	struct:pmsg::__anon8::__anon9
+msg	pmsg.h	/^	unsigned char *msg;$/;"	m	struct:pmsg
+msg_len	pmsg.h	/^	int msg_len;$/;"	m	struct:pmsg
+name	pmsg.h	/^	char *name;$/;"	m	struct:hdrf
+pmsg	pmsg.h	/^struct pmsg {$/;"	s
+proto_id	pmsg.h	/^	char *proto_id;$/;"	m	struct:pmsg
+reason	pmsg.h	/^			char *reason;$/;"	m	struct:pmsg::__anon8::__anon10
+req	pmsg.h	/^		} req;$/;"	m	union:pmsg::__anon8	typeref:struct:pmsg::__anon8::__anon9
+sl	pmsg.h	/^	} sl;$/;"	m	struct:pmsg	typeref:union:pmsg::__anon8
+stat	pmsg.h	/^		} stat;$/;"	m	union:pmsg::__anon8	typeref:struct:pmsg::__anon8::__anon10
+type	pmsg.h	/^	enum { PMSG_REQ, PMSG_RESP } type;$/;"	m	struct:pmsg	typeref:enum:pmsg::__anon7
+uri	pmsg.h	/^			char *uri;$/;"	m	struct:pmsg::__anon8::__anon9
+value	pmsg.h	/^	char *value;$/;"	m	struct:hdrf
+d	rtp-h263.c	/^	unsigned char *d;$/;"	m	struct:rtp_h263	file:
+h263_get_sdp	rtp-h263.c	/^static int h263_get_sdp( char *dest, int len, int payload, int port, void *d )$/;"	f	file:
+h263_process_frame	rtp-h263.c	/^static int h263_process_frame( struct frame *f, void *d )$/;"	f	file:
+h263_send	rtp-h263.c	/^static int h263_send( struct rtp_endpoint *ep, void *d )$/;"	f	file:
+init_done	rtp-h263.c	/^	int init_done;$/;"	m	struct:rtp_h263	file:
+len	rtp-h263.c	/^	int len;$/;"	m	struct:rtp_h263	file:
+new_rtp_media_h263_stream	rtp-h263.c	/^struct rtp_media *new_rtp_media_h263_stream( struct stream *stream )$/;"	f
+rtp_h263	rtp-h263.c	/^struct rtp_h263 {$/;"	s	file:
+timestamp	rtp-h263.c	/^	unsigned int timestamp;$/;"	m	struct:rtp_h263	file:
+ts_incr	rtp-h263.c	/^	int ts_incr;$/;"	m	struct:rtp_h263	file:
+chroma_table	rtp-jpeg.c	/^	int chroma_table;$/;"	m	struct:rtp_jpeg	file:
+height	rtp-jpeg.c	/^	int height;$/;"	m	struct:rtp_jpeg	file:
+init_done	rtp-jpeg.c	/^	int init_done;$/;"	m	struct:rtp_jpeg	file:
+jpeg_get_payload	rtp-jpeg.c	/^static int jpeg_get_payload( int payload, void *d )$/;"	f	file:
+jpeg_get_sdp	rtp-jpeg.c	/^static int jpeg_get_sdp( char *dest, int len, int payload, int port, void *d )$/;"	f	file:
+jpeg_process_frame	rtp-jpeg.c	/^static int jpeg_process_frame( struct frame *f, void *d )$/;"	f	file:
+jpeg_send	rtp-jpeg.c	/^static int jpeg_send( struct rtp_endpoint *ep, void *d )$/;"	f	file:
+luma_table	rtp-jpeg.c	/^	int luma_table;$/;"	m	struct:rtp_jpeg	file:
+new_rtp_media_jpeg_stream	rtp-jpeg.c	/^struct rtp_media *new_rtp_media_jpeg_stream( struct stream *stream )$/;"	f
+parse_DHT	rtp-jpeg.c	/^static int parse_DHT( struct rtp_jpeg *out, unsigned char *d, int len )$/;"	f	file:
+parse_DQT	rtp-jpeg.c	/^static int parse_DQT( struct rtp_jpeg *out, unsigned char *d, int len )$/;"	f	file:
+parse_SOF	rtp-jpeg.c	/^static int parse_SOF( struct rtp_jpeg *out, unsigned char *d, int len )$/;"	f	file:
+q	rtp-jpeg.c	/^	int q;$/;"	m	struct:rtp_jpeg	file:
+quant	rtp-jpeg.c	/^	unsigned char *quant[16];$/;"	m	struct:rtp_jpeg	file:
+rtp_jpeg	rtp-jpeg.c	/^struct rtp_jpeg {$/;"	s	file:
+scan_data	rtp-jpeg.c	/^	unsigned char *scan_data;$/;"	m	struct:rtp_jpeg	file:
+scan_data_len	rtp-jpeg.c	/^	int scan_data_len;$/;"	m	struct:rtp_jpeg	file:
+timestamp	rtp-jpeg.c	/^	unsigned int timestamp;$/;"	m	struct:rtp_jpeg	file:
+ts_incr	rtp-jpeg.c	/^	int ts_incr;$/;"	m	struct:rtp_jpeg	file:
+type	rtp-jpeg.c	/^	int type;$/;"	m	struct:rtp_jpeg	file:
+width	rtp-jpeg.c	/^	int width;$/;"	m	struct:rtp_jpeg	file:
+mpa_data	rtp-mpa.c	/^	unsigned char *mpa_data;$/;"	m	struct:rtp_mpa	file:
+mpa_get_payload	rtp-mpa.c	/^static int mpa_get_payload( int payload, void *d )$/;"	f	file:
+mpa_get_sdp	rtp-mpa.c	/^static int mpa_get_sdp( char *dest, int len, int payload, int port, void *d )$/;"	f	file:
+mpa_len	rtp-mpa.c	/^	int mpa_len;$/;"	m	struct:rtp_mpa	file:
+mpa_process_frame	rtp-mpa.c	/^static int mpa_process_frame( struct frame *f, void *d )$/;"	f	file:
+mpa_send	rtp-mpa.c	/^static int mpa_send( struct rtp_endpoint *ep, void *d )$/;"	f	file:
+new_rtp_media_mpa	rtp-mpa.c	/^struct rtp_media *new_rtp_media_mpa(void)$/;"	f
+rtp_mpa	rtp-mpa.c	/^struct rtp_mpa {$/;"	s	file:
+timestamp	rtp-mpa.c	/^	unsigned int timestamp;$/;"	m	struct:rtp_mpa	file:
+ts_incr	rtp-mpa.c	/^	int ts_incr;$/;"	m	struct:rtp_mpa	file:
+add_to_config	rtp-mpeg4.c	/^static int add_to_config( struct rtp_mpeg4 *out, unsigned char *d, int len )$/;"	f	file:
+add_to_rtp_buf	rtp-mpeg4.c	/^static int add_to_rtp_buf( struct rtp_mpeg4 *out, unsigned char *d, int len )$/;"	f	file:
+config	rtp-mpeg4.c	/^	unsigned char config[512];$/;"	m	struct:rtp_mpeg4	file:
+config_len	rtp-mpeg4.c	/^	int config_len;$/;"	m	struct:rtp_mpeg4	file:
+find_next_code	rtp-mpeg4.c	/^static int find_next_code( unsigned char *d, int len )$/;"	f	file:
+finish_config	rtp-mpeg4.c	/^static void finish_config( struct rtp_mpeg4 *out )$/;"	f	file:
+fmtp	rtp-mpeg4.c	/^	char fmtp[600];$/;"	m	struct:rtp_mpeg4	file:
+get_field	rtp-mpeg4.c	/^static unsigned int get_field( unsigned char *d, int bits, int *offset )$/;"	f	file:
+init_done	rtp-mpeg4.c	/^	int init_done;$/;"	m	struct:rtp_mpeg4	file:
+iov	rtp-mpeg4.c	/^	struct iovec iov[24];$/;"	m	struct:rtp_mpeg4	typeref:struct:rtp_mpeg4::iovec	file:
+iov_count	rtp-mpeg4.c	/^	int iov_count;$/;"	m	struct:rtp_mpeg4	file:
+mpeg4_get_sdp	rtp-mpeg4.c	/^static int mpeg4_get_sdp( char *dest, int len, int payload, int port, void *d )$/;"	f	file:
+mpeg4_process_frame	rtp-mpeg4.c	/^static int mpeg4_process_frame( struct frame *f, void *d )$/;"	f	file:
+mpeg4_send	rtp-mpeg4.c	/^static int mpeg4_send( struct rtp_endpoint *ep, void *d )$/;"	f	file:
+new_rtp_media_mpeg4	rtp-mpeg4.c	/^struct rtp_media *new_rtp_media_mpeg4(void)$/;"	f
+pali	rtp-mpeg4.c	/^	int pali;$/;"	m	struct:rtp_mpeg4	file:
+parse_1b2	rtp-mpeg4.c	/^static void parse_1b2( struct rtp_mpeg4 *out,$/;"	f	file:
+parse_mpeg4_frame	rtp-mpeg4.c	/^static int parse_mpeg4_frame( struct rtp_mpeg4 *out, unsigned char *d, int len )$/;"	f	file:
+parse_video_object	rtp-mpeg4.c	/^static void parse_video_object( struct rtp_mpeg4 *out,$/;"	f	file:
+parse_video_object_layer	rtp-mpeg4.c	/^static void parse_video_object_layer( struct rtp_mpeg4 *out,$/;"	f	file:
+parse_video_object_plane	rtp-mpeg4.c	/^static void parse_video_object_plane( struct rtp_mpeg4 *out,$/;"	f	file:
+parse_visual_object	rtp-mpeg4.c	/^static void parse_visual_object( struct rtp_mpeg4 *out,$/;"	f	file:
+parse_visual_object_sequence	rtp-mpeg4.c	/^static void parse_visual_object_sequence( struct rtp_mpeg4 *out,$/;"	f	file:
+rtp_mpeg4	rtp-mpeg4.c	/^struct rtp_mpeg4 {$/;"	s	file:
+timestamp	rtp-mpeg4.c	/^	unsigned int timestamp;$/;"	m	struct:rtp_mpeg4	file:
+ts_incr	rtp-mpeg4.c	/^	int ts_incr;$/;"	m	struct:rtp_mpeg4	file:
+vop_time_increment	rtp-mpeg4.c	/^	int vop_time_increment;$/;"	m	struct:rtp_mpeg4	file:
+vop_time_increment_resolution	rtp-mpeg4.c	/^	int vop_time_increment_resolution;$/;"	m	struct:rtp_mpeg4	file:
+vtir_bitlen	rtp-mpeg4.c	/^	int vtir_bitlen;$/;"	m	struct:rtp_mpeg4	file:
+blk	rtp-mpv.c	/^	} blk[48];$/;"	m	struct:rtp_mpv	typeref:struct:rtp_mpv::__anon3	file:
+blk_count	rtp-mpv.c	/^	int blk_count;$/;"	m	struct:rtp_mpv	file:
+d	rtp-mpv.c	/^		unsigned char *d;$/;"	m	struct:rtp_mpv::__anon3	file:
+find_next_code	rtp-mpv.c	/^static int find_next_code( unsigned char *d, int len )$/;"	f	file:
+frame_rate_tab	rtp-mpv.c	/^static const int frame_rate_tab[][2] = {$/;"	v	file:
+get_field	rtp-mpv.c	/^static unsigned int get_field( unsigned char *d, int bits, int *offset )$/;"	f	file:
+init_done	rtp-mpv.c	/^	int init_done;$/;"	m	struct:rtp_mpv	file:
+len	rtp-mpv.c	/^		int len;$/;"	m	struct:rtp_mpv::__anon3	file:
+mpv_get_payload	rtp-mpv.c	/^static int mpv_get_payload( int payload, void *d )$/;"	f	file:
+mpv_get_sdp	rtp-mpv.c	/^static int mpv_get_sdp( char *dest, int len, int payload, int port, void *d )$/;"	f	file:
+mpv_process_frame	rtp-mpv.c	/^static int mpv_process_frame( struct frame *f, void *d )$/;"	f	file:
+mpv_send	rtp-mpv.c	/^static int mpv_send( struct rtp_endpoint *ep, void *d )$/;"	f	file:
+new_rtp_media_mpv	rtp-mpv.c	/^struct rtp_media *new_rtp_media_mpv(void)$/;"	f
+parse_picture_header	rtp-mpv.c	/^static void parse_picture_header( struct rtp_mpv *out,$/;"	f	file:
+parse_video_sequence_header	rtp-mpv.c	/^static void parse_video_sequence_header( struct rtp_mpv *out,$/;"	f	file:
+picture_type	rtp-mpv.c	/^	int picture_type;$/;"	m	struct:rtp_mpv	file:
+rtp_mpv	rtp-mpv.c	/^struct rtp_mpv {$/;"	s	file:
+temporal_reference	rtp-mpv.c	/^	int temporal_reference;$/;"	m	struct:rtp_mpv	file:
+timestamp	rtp-mpv.c	/^	unsigned int timestamp;$/;"	m	struct:rtp_mpv	file:
+ts_incr	rtp-mpv.c	/^	int ts_incr;$/;"	m	struct:rtp_mpv	file:
+vectors	rtp-mpv.c	/^	int vectors;$/;"	m	struct:rtp_mpv	file:
+vsh	rtp-mpv.c	/^	unsigned char vsh[4096];$/;"	m	struct:rtp_mpv	file:
+vsh_len	rtp-mpv.c	/^	int vsh_len;$/;"	m	struct:rtp_mpv	file:
+channels	rtp-rawaudio.c	/^	int channels;$/;"	m	struct:rtp_rawaudio	file:
+format	rtp-rawaudio.c	/^	int format;$/;"	m	struct:rtp_rawaudio	file:
+new_rtp_media_rawaudio_stream	rtp-rawaudio.c	/^struct rtp_media *new_rtp_media_rawaudio_stream( struct stream *stream )$/;"	f
+rate	rtp-rawaudio.c	/^	int rate;$/;"	m	struct:rtp_rawaudio	file:
+rawaudio_data	rtp-rawaudio.c	/^	unsigned char *rawaudio_data;$/;"	m	struct:rtp_rawaudio	file:
+rawaudio_get_payload	rtp-rawaudio.c	/^static int rawaudio_get_payload( int payload, void *d )$/;"	f	file:
+rawaudio_get_sdp	rtp-rawaudio.c	/^static int rawaudio_get_sdp( char *dest, int len, int payload,$/;"	f	file:
+rawaudio_len	rtp-rawaudio.c	/^	int rawaudio_len;$/;"	m	struct:rtp_rawaudio	file:
+rawaudio_process_frame	rtp-rawaudio.c	/^static int rawaudio_process_frame( struct frame *f, void *d )$/;"	f	file:
+rawaudio_send	rtp-rawaudio.c	/^static int rawaudio_send( struct rtp_endpoint *ep, void *d )$/;"	f	file:
+rtp_rawaudio	rtp-rawaudio.c	/^struct rtp_rawaudio {$/;"	s	file:
+sampsize	rtp-rawaudio.c	/^	int sampsize;$/;"	m	struct:rtp_rawaudio	file:
+timestamp	rtp-rawaudio.c	/^	unsigned int timestamp;$/;"	m	struct:rtp_rawaudio	file:
+ts_incr	rtp-rawaudio.c	/^	int ts_incr;$/;"	m	struct:rtp_rawaudio	file:
+config_rtprange	rtp.c	/^int config_rtprange( int num_tokens, struct token *tokens, void *d )$/;"	f
+connect_interleaved_endpoint	rtp.c	/^void connect_interleaved_endpoint( struct rtp_endpoint *ep,$/;"	f
+connect_udp_endpoint	rtp.c	/^int connect_udp_endpoint( struct rtp_endpoint *ep,$/;"	f
+del_rtp_endpoint	rtp.c	/^void del_rtp_endpoint( struct rtp_endpoint *ep )$/;"	f
+interleave_recv_rtcp	rtp.c	/^void interleave_recv_rtcp( struct rtp_endpoint *ep, unsigned char *d, int len )$/;"	f
+new_rtp_endpoint	rtp.c	/^struct rtp_endpoint *new_rtp_endpoint( int payload )$/;"	f
+rtcp_fire	rtp.c	/^static void rtcp_fire( struct event_info *ei, void *d )$/;"	f	file:
+rtcp_send	rtp.c	/^static int rtcp_send( struct rtp_endpoint *ep )$/;"	f	file:
+rtp_port_end	rtp.c	/^static int rtp_port_start = 50000, rtp_port_end = 60000;$/;"	v	file:
+rtp_port_start	rtp.c	/^static int rtp_port_start = 50000, rtp_port_end = 60000;$/;"	v	file:
+send_rtp_packet	rtp.c	/^int send_rtp_packet( struct rtp_endpoint *ep, struct iovec *v, int count,$/;"	f
+udp_rtcp_read	rtp.c	/^static void udp_rtcp_read( struct event_info *ei, void *d )$/;"	f	file:
+udp_rtp_read	rtp.c	/^static void udp_rtp_read( struct event_info *ei, void *d )$/;"	f	file:
+update_rtp_timestamp	rtp.c	/^void update_rtp_timestamp( struct rtp_endpoint *ep, int time_increment )$/;"	f
+CONN_PROTO_HTTP	rtp.h	102;"	d
+CONN_PROTO_RTSP	rtp.h	101;"	d
+CONN_PROTO_SIP	rtp.h	103;"	d
+CONN_PROTO_START	rtp.h	100;"	d
+GET_16	rtp.h	130;"	d
+GET_32	rtp.h	131;"	d
+MAX_INTERLEAVE_CHANNELS	rtp.h	23;"	d
+MAX_TRACKS	rtp.h	68;"	d
+PUT_16	rtp.h	128;"	d
+PUT_32	rtp.h	129;"	d
+RTP_TRANS_INTER	rtp.h	21;"	d
+RTP_TRANS_UDP	rtp.h	20;"	d
+addr	rtp.h	/^	char addr[64];$/;"	m	struct:session
+base64_count	rtp.h	/^	int base64_count; \/* QuickTime uses base64 when tunneling over HTTP *\/$/;"	m	struct:conn
+client_addr	rtp.h	/^	struct sockaddr_in client_addr;$/;"	m	struct:conn	typeref:struct:conn::sockaddr_in
+conn	rtp.h	/^			struct conn *conn;$/;"	m	struct:rtp_endpoint::__anon4::__anon6	typeref:struct:rtp_endpoint::__anon4::__anon6::conn
+conn	rtp.h	/^	struct conn *conn;$/;"	m	struct:req	typeref:struct:req::conn
+conn	rtp.h	/^struct conn {$/;"	s
+control_close	rtp.h	/^	session_close_func control_close;$/;"	m	struct:session
+control_private	rtp.h	/^	void *control_private;$/;"	m	struct:session
+drop_after	rtp.h	/^	int drop_after;$/;"	m	struct:conn
+ep	rtp.h	/^	struct rtp_endpoint *ep[MAX_TRACKS];$/;"	m	struct:session	typeref:struct:session::rtp_endpoint
+fd	rtp.h	/^	int fd;$/;"	m	struct:conn
+force_rtcp	rtp.h	/^	int force_rtcp;$/;"	m	struct:rtp_endpoint
+get_sdp	rtp.h	/^	get_sdp_func get_sdp;$/;"	m	struct:session
+get_sdp_func	rtp.h	/^typedef int (*get_sdp_func)( struct session *s, char *dest, int *len,$/;"	t
+http_tunnel_cookie	rtp.h	/^	char http_tunnel_cookie[128]; \/* used to identify QuickTime tunnels *\/$/;"	m	struct:conn
+inter	rtp.h	/^		} inter;$/;"	m	union:rtp_endpoint::__anon4	typeref:struct:rtp_endpoint::__anon4::__anon6
+last_rtcp_recv	rtp.h	/^	struct timeval last_rtcp_recv;$/;"	m	struct:rtp_endpoint	typeref:struct:rtp_endpoint::timeval
+last_timestamp	rtp.h	/^	unsigned int last_timestamp;$/;"	m	struct:rtp_endpoint
+loc_node	rtp.h	/^struct loc_node {$/;"	s
+max_data_size	rtp.h	/^	int max_data_size;$/;"	m	struct:rtp_endpoint
+next	rtp.h	/^	struct conn *next;$/;"	m	struct:conn	typeref:struct:conn::conn
+next	rtp.h	/^	struct loc_node *next;$/;"	m	struct:loc_node	typeref:struct:loc_node::loc_node
+next	rtp.h	/^	struct session *next;$/;"	m	struct:session	typeref:struct:session::session
+octet_count	rtp.h	/^	int octet_count;$/;"	m	struct:rtp_endpoint
+open_func	rtp.h	/^typedef struct session *(*open_func)( char *path, void *d );$/;"	t	typeref:struct:open_func
+open_time	rtp.h	/^	struct timeval open_time;$/;"	m	struct:session	typeref:struct:session::timeval
+packet_count	rtp.h	/^	int packet_count;$/;"	m	struct:rtp_endpoint
+path	rtp.h	/^	char path[256];$/;"	m	struct:loc_node
+pause	rtp.h	/^	pause_func pause;$/;"	m	struct:session
+pause_func	rtp.h	/^typedef void (*pause_func)( struct session *s );$/;"	t
+payload	rtp.h	/^	int payload;$/;"	m	struct:rtp_endpoint
+play	rtp.h	/^	play_func play;$/;"	m	struct:session
+play_func	rtp.h	/^typedef void (*play_func)( struct session *s, double *start );$/;"	t
+prev	rtp.h	/^	struct conn *prev;$/;"	m	struct:conn	typeref:struct:conn::conn
+prev	rtp.h	/^	struct loc_node *prev;$/;"	m	struct:loc_node	typeref:struct:loc_node::loc_node
+prev	rtp.h	/^	struct session *prev;$/;"	m	struct:session	typeref:struct:session::session
+proto	rtp.h	/^	int proto;$/;"	m	struct:conn
+proto_state	rtp.h	/^	void *proto_state;$/;"	m	struct:conn
+read_event	rtp.h	/^	struct event *read_event;$/;"	m	struct:conn	typeref:struct:conn::event
+req	rtp.h	/^	struct pmsg *req;$/;"	m	struct:req	typeref:struct:req::pmsg
+req	rtp.h	/^struct req {$/;"	s
+req_buf	rtp.h	/^	unsigned char req_buf[4096];$/;"	m	struct:conn
+req_len	rtp.h	/^	int req_len;$/;"	m	struct:conn
+req_list	rtp.h	/^	struct req *req_list;$/;"	m	struct:conn	typeref:struct:conn::req
+resp	rtp.h	/^	struct pmsg *resp;$/;"	m	struct:req	typeref:struct:req::pmsg
+rtcp_chan	rtp.h	/^			int rtcp_chan;$/;"	m	struct:rtp_endpoint::__anon4::__anon6
+rtcp_event	rtp.h	/^			struct event *rtcp_event;$/;"	m	struct:rtp_endpoint::__anon4::__anon5	typeref:struct:rtp_endpoint::__anon4::__anon5::event
+rtcp_fd	rtp.h	/^			int rtcp_fd;$/;"	m	struct:rtp_endpoint::__anon4::__anon5
+rtcp_send_event	rtp.h	/^	struct event *rtcp_send_event;$/;"	m	struct:rtp_endpoint	typeref:struct:rtp_endpoint::event
+rtp_chan	rtp.h	/^			int rtp_chan;$/;"	m	struct:rtp_endpoint::__anon4::__anon6
+rtp_endpoint	rtp.h	/^struct rtp_endpoint {$/;"	s
+rtp_event	rtp.h	/^			struct event *rtp_event;$/;"	m	struct:rtp_endpoint::__anon4::__anon5	typeref:struct:rtp_endpoint::__anon4::__anon5::event
+rtp_fd	rtp.h	/^			int rtp_fd;$/;"	m	struct:rtp_endpoint::__anon4::__anon5
+sdp_addr	rtp.h	/^			char sdp_addr[48];$/;"	m	struct:rtp_endpoint::__anon4::__anon5
+sdp_port	rtp.h	/^			int sdp_port;$/;"	m	struct:rtp_endpoint::__anon4::__anon5
+second_fd	rtp.h	/^	int second_fd; \/* QuickTime uses two TCP connections for tunneling *\/$/;"	m	struct:conn
+second_read_event	rtp.h	/^	struct event *second_read_event; \/* for second_fd *\/$/;"	m	struct:conn	typeref:struct:conn::event
+send_buf	rtp.h	/^	unsigned char send_buf[65536];$/;"	m	struct:conn
+send_buf_r	rtp.h	/^	int send_buf_r;$/;"	m	struct:conn
+send_buf_w	rtp.h	/^	int send_buf_w;$/;"	m	struct:conn
+seqnum	rtp.h	/^	int seqnum;$/;"	m	struct:rtp_endpoint
+session	rtp.h	/^	struct session *session;$/;"	m	struct:rtp_endpoint	typeref:struct:rtp_endpoint::session
+session	rtp.h	/^struct session {$/;"	s
+session_close_func	rtp.h	/^typedef void (*session_close_func)( struct session *sess );$/;"	t
+setup	rtp.h	/^	setup_func setup;$/;"	m	struct:session
+setup_func	rtp.h	/^typedef int (*setup_func)( struct session *s, int track );$/;"	t
+ssrc	rtp.h	/^	unsigned int ssrc;$/;"	m	struct:rtp_endpoint
+start_timestamp	rtp.h	/^	unsigned int start_timestamp;$/;"	m	struct:rtp_endpoint
+teardown	rtp.h	/^	teardown_func teardown;$/;"	m	struct:session
+teardown_func	rtp.h	/^typedef void (*teardown_func)( struct session *s, struct rtp_endpoint *ep );$/;"	t
+trans	rtp.h	/^	} trans;$/;"	m	struct:rtp_endpoint	typeref:union:rtp_endpoint::__anon4
+trans_type	rtp.h	/^	int trans_type;$/;"	m	struct:rtp_endpoint
+udp	rtp.h	/^		} udp;$/;"	m	union:rtp_endpoint::__anon4	typeref:struct:rtp_endpoint::__anon4::__anon5
+write_event	rtp.h	/^	struct event *write_event;$/;"	m	struct:conn	typeref:struct:conn::event
+frame	rtp_media.h	/^	rtp_media_frame_func frame;$/;"	m	struct:rtp_media
+get_payload	rtp_media.h	/^	rtp_media_get_payload_func get_payload;$/;"	m	struct:rtp_media
+get_sdp	rtp_media.h	/^	rtp_media_get_sdp_func get_sdp;$/;"	m	struct:rtp_media
+rtp_media	rtp_media.h	/^struct rtp_media {$/;"	s
+rtp_media_frame_func	rtp_media.h	/^typedef int (*rtp_media_frame_func)( struct frame *f, void *d );$/;"	t
+rtp_media_get_payload_func	rtp_media.h	/^typedef int (*rtp_media_get_payload_func)( int payload, void *d );$/;"	t
+rtp_media_get_sdp_func	rtp_media.h	/^typedef int (*rtp_media_get_sdp_func)( char *dest, int len, int payload,$/;"	t
+rtp_media_send_func	rtp_media.h	/^typedef int (*rtp_media_send_func)( struct rtp_endpoint *ep, void *d );$/;"	t
+send	rtp_media.h	/^	rtp_media_send_func send;$/;"	m	struct:rtp_media
+ep	rtsp.c	/^		struct rtp_endpoint *ep;$/;"	m	struct:rtsp_conn::__anon2	typeref:struct:rtsp_conn::__anon2::rtp_endpoint	file:
+find_rtsp_location	rtsp.c	/^static struct rtsp_location *find_rtsp_location( char *uri, char *base, int *track )$/;"	f	file:
+get_local_path	rtsp.c	/^static char *get_local_path( char *path )$/;"	f	file:
+get_session	rtsp.c	/^static struct rtsp_session *get_session( char *id )$/;"	f	file:
+handle_DESCRIBE	rtsp.c	/^static int handle_DESCRIBE( struct req *req )$/;"	f	file:
+handle_OPTIONS	rtsp.c	/^static int handle_OPTIONS( struct req *req )$/;"	f	file:
+handle_PAUSE	rtsp.c	/^static int handle_PAUSE( struct req *req )$/;"	f	file:
+handle_PLAY	rtsp.c	/^static int handle_PLAY( struct req *req )$/;"	f	file:
+handle_SETUP	rtsp.c	/^static int handle_SETUP( struct req *req )$/;"	f	file:
+handle_TEARDOWN	rtsp.c	/^static int handle_TEARDOWN( struct req *req )$/;"	f	file:
+handle_unknown	rtsp.c	/^static int handle_unknown( struct req *req )$/;"	f	file:
+ichan	rtsp.c	/^	} ichan[MAX_INTERLEAVE_CHANNELS];$/;"	m	struct:rtsp_conn	typeref:struct:rtsp_conn::__anon2	file:
+id	rtsp.c	/^	char id[32];$/;"	m	struct:rtsp_session	file:
+init_location	rtsp.c	/^static void init_location( struct loc_node *node, char *path,$/;"	f	file:
+interleave_disconnect	rtsp.c	/^void interleave_disconnect( struct conn *c, int chan )$/;"	f
+interleave_recv	rtsp.c	/^int interleave_recv( struct conn *c, int chan, unsigned char *d, int len )$/;"	f
+interleave_send	rtsp.c	/^int interleave_send( struct conn *c, int chan, struct iovec *v, int count )$/;"	f
+log_request	rtsp.c	/^static void log_request( struct req *req, int code, int length )$/;"	f	file:
+new_rtsp_location	rtsp.c	/^void new_rtsp_location( char *path, char *realm, char *username, char *password,$/;"	f
+new_rtsp_session	rtsp.c	/^static struct rtsp_session *new_rtsp_session( struct session *sess )$/;"	f	file:
+next	rtsp.c	/^	struct rtsp_session *next;$/;"	m	struct:rtsp_session	typeref:struct:rtsp_session::rtsp_session	file:
+node	rtsp.c	/^	struct loc_node node;$/;"	m	struct:rtsp_location	typeref:struct:rtsp_location::loc_node	file:
+node_find_location	rtsp.c	/^static struct loc_node *node_find_location( struct loc_node *list,$/;"	f	file:
+open	rtsp.c	/^	open_func open;$/;"	m	struct:rtsp_location	file:
+password	rtsp.c	/^	char password[128];$/;"	m	struct:rtsp_location	file:
+prev	rtsp.c	/^	struct rtsp_session *prev;$/;"	m	struct:rtsp_session	typeref:struct:rtsp_session::rtsp_session	file:
+private	rtsp.c	/^	void *private;$/;"	m	struct:rtsp_location	file:
+realm	rtsp.c	/^	char realm[128];$/;"	m	struct:rtsp_location	file:
+rtcp	rtsp.c	/^		int rtcp;$/;"	m	struct:rtsp_conn::__anon2	file:
+rtsp_conn	rtsp.c	/^struct rtsp_conn {$/;"	s	file:
+rtsp_conn_disconnect	rtsp.c	/^void rtsp_conn_disconnect( struct conn *c )$/;"	f
+rtsp_create_reply	rtsp.c	/^static int rtsp_create_reply( struct req *req, int code, char *reason )$/;"	f	file:
+rtsp_handle_msg	rtsp.c	/^int rtsp_handle_msg( struct req *req )$/;"	f
+rtsp_interleave_setup	rtsp.c	/^static int rtsp_interleave_setup( struct session *s, int track,$/;"	f	file:
+rtsp_loc_list	rtsp.c	/^static struct rtsp_location *rtsp_loc_list = NULL;$/;"	v	typeref:struct:rtsp_location	file:
+rtsp_location	rtsp.c	/^struct rtsp_location {$/;"	s	file:
+rtsp_send_error	rtsp.c	/^static void rtsp_send_error( struct req *req, int code, char *reason )$/;"	f	file:
+rtsp_session	rtsp.c	/^struct rtsp_session {$/;"	s	file:
+rtsp_session_close	rtsp.c	/^static void rtsp_session_close( struct session *sess )$/;"	f	file:
+rtsp_udp_setup	rtsp.c	/^static int rtsp_udp_setup( struct session *s, int track,$/;"	f	file:
+rtsp_verify_auth	rtsp.c	/^static int rtsp_verify_auth( struct req *req, char *realm,$/;"	f	file:
+sess	rtsp.c	/^	struct session *sess;$/;"	m	struct:rtsp_session	typeref:struct:rtsp_session::session	file:
+sess_list	rtsp.c	/^static struct rtsp_session *sess_list = NULL;$/;"	v	typeref:struct:rtsp_session	file:
+username	rtsp.c	/^	char username[128];$/;"	m	struct:rtsp_location	file:
+del_session	session.c	/^void del_session( struct session *sess )$/;"	f
+new_rtp_media	session.c	/^struct rtp_media *new_rtp_media( rtp_media_get_sdp_func get_sdp,$/;"	f
+new_session	session.c	/^struct session *new_session(void)$/;"	f
+print_session_list	session.c	/^int print_session_list( char *s, int maxlen )$/;"	f
+sess_list	session.c	/^static struct session *sess_list = NULL;$/;"	v	typeref:struct:session	file:
+alaw_dec	sound_conv.c	/^void alaw_dec(char *alaw_data   \/* contains 160 char *\/,$/;"	f
+alaw_enc	sound_conv.c	/^void alaw_enc(char *s16_data   \/* contains 320 char *\/,$/;"	f
+alaw_to_s16	sound_conv.c	/^int alaw_to_s16(unsigned char a_val)$/;"	f
+mulaw_dec	sound_conv.c	/^void mulaw_dec(char *mulaw_data \/* contains 160 char *\/,$/;"	f
+mulaw_enc	sound_conv.c	/^void mulaw_enc(char *s16_data    \/* contains pcm_size char *\/,$/;"	f
+s16_to_alaw	sound_conv.c	/^unsigned char s16_to_alaw(int pcm_val)$/;"	f
+s16_to_ulaw	sound_conv.c	/^unsigned char s16_to_ulaw(int pcm_val)	\/* 2's complement (16-bit range) *\/$/;"	f
+ulaw_to_s16	sound_conv.c	/^int ulaw_to_s16(unsigned char u_val)$/;"	f
+val_seg	sound_conv.c	/^int val_seg(int val)$/;"	f
+config_frameheap	spook.c	/^int config_frameheap( int num_tokens, struct token *tokens, void *d )$/;"	f
+init_random	spook.c	/^static int init_random(void)$/;"	f	file:
+main	spook.c	/^int main( int argc, char **argv )$/;"	f
+random_bytes	spook.c	/^void random_bytes( unsigned char *dest, int len )$/;"	f
+random_id	spook.c	/^void random_id( char *dest, int len )$/;"	f
+fd	spookctl.c	/^int fd;$/;"	v
+main	spookctl.c	/^int main( int argc, char **argv )$/;"	f
+sock_read	spookctl.c	/^static void sock_read( struct event_info *ei, void *d )$/;"	f	file:
+stdin_read	spookctl.c	/^static void stdin_read( struct event_info *ei, void *d )$/;"	f	file:
+connect_to_stream	stream.c	/^struct stream_destination *connect_to_stream( char *name,$/;"	f
+convert_uyvy_to_rgb24	stream.c	/^static void convert_uyvy_to_rgb24( struct frame *uyvy, void *d )$/;"	f	file:
+converter	stream.c	/^struct converter {$/;"	s	file:
+del_stream	stream.c	/^void del_stream( struct stream *s )$/;"	f
+deliver_frame_to_stream	stream.c	/^void deliver_frame_to_stream( struct frame *f, void *d )$/;"	f
+format_match	stream.c	/^int format_match( int format, int *formats, int format_count )$/;"	f
+get_framerate	stream.c	/^static void get_framerate( struct stream *s, int *fincr, int *fbase )$/;"	f	file:
+input	stream.c	/^	struct stream_destination *input;$/;"	m	struct:converter	typeref:struct:converter::stream_destination	file:
+new_convert_stream	stream.c	/^struct stream *new_convert_stream( struct stream *base, int format,$/;"	f
+new_dest	stream.c	/^static struct stream_destination *new_dest( struct stream *s,$/;"	f	file:
+new_stream	stream.c	/^struct stream *new_stream( char *name, int format, void *d )$/;"	f
+output	stream.c	/^	struct stream *output;$/;"	m	struct:converter	typeref:struct:converter::stream	file:
+set_running	stream.c	/^static void set_running( struct stream *s, int running )$/;"	f	file:
+set_waiting	stream.c	/^void set_waiting( struct stream_destination *dest, int waiting )$/;"	f
+stream_list	stream.c	/^static struct stream *stream_list = NULL;$/;"	v	typeref:struct:stream	file:
+d	stream.h	/^	void *d;$/;"	m	struct:stream_destination
+dest_list	stream.h	/^	struct stream_destination *dest_list;$/;"	m	struct:stream	typeref:struct:stream::stream_destination
+format	stream.h	/^	int format;$/;"	m	struct:stream
+get_framerate	stream.h	/^	void (*get_framerate)( struct stream *s, int *fincr, int *fbase );$/;"	m	struct:stream
+name	stream.h	/^	char name[256];$/;"	m	struct:stream
+next	stream.h	/^	struct stream *next;$/;"	m	struct:stream	typeref:struct:stream::stream
+next	stream.h	/^	struct stream_destination *next;$/;"	m	struct:stream_destination	typeref:struct:stream_destination::stream_destination
+prev	stream.h	/^	struct stream *prev;$/;"	m	struct:stream	typeref:struct:stream::stream
+prev	stream.h	/^	struct stream_destination *prev;$/;"	m	struct:stream_destination	typeref:struct:stream_destination::stream_destination
+process_frame	stream.h	/^	frame_deliver_func process_frame;$/;"	m	struct:stream_destination
+set_running	stream.h	/^	void (*set_running)( struct stream *s, int running );$/;"	m	struct:stream
+stream	stream.h	/^	struct stream *stream;$/;"	m	struct:stream_destination	typeref:struct:stream_destination::stream
+stream	stream.h	/^struct stream {$/;"	s
+stream_destination	stream.h	/^struct stream_destination {$/;"	s
+waiting	stream.h	/^	int waiting;$/;"	m	struct:stream_destination
+avail_send_buf	tcp.c	/^int avail_send_buf( struct conn *c )$/;"	f
+config_port	tcp.c	/^int config_port( int num_tokens, struct token *tokens, void *d )$/;"	f
+conn_list	tcp.c	/^static struct conn *conn_list = NULL;$/;"	v	typeref:struct:conn	file:
+conn_write	tcp.c	/^static void conn_write( struct event_info *ei, void *d )$/;"	f	file:
+do_accept	tcp.c	/^static void do_accept( struct event_info *ei, void *d )$/;"	f	file:
+do_read	tcp.c	/^static void do_read( struct event_info *ei, void *d )$/;"	f	file:
+drop_conn	tcp.c	/^static void drop_conn( struct conn *c )$/;"	f	file:
+fd	tcp.c	/^	int fd;$/;"	m	struct:listener	file:
+handle_GET	tcp.c	/^static int handle_GET( struct req *req )$/;"	f	file:
+handle_POST	tcp.c	/^static int handle_POST( struct req *req )$/;"	f	file:
+handle_QT_tunnel	tcp.c	/^static int handle_QT_tunnel( struct req *req, int post )$/;"	f	file:
+handle_request	tcp.c	/^static int handle_request( struct conn *c )$/;"	f	file:
+handle_unknown	tcp.c	/^static int handle_unknown( struct req *req )$/;"	f	file:
+listener	tcp.c	/^struct listener {$/;"	s	file:
+log_request	tcp.c	/^static void log_request( struct req *req, int code, int length )$/;"	f	file:
+parse_client_data	tcp.c	/^static int parse_client_data( struct conn *c )$/;"	f	file:
+send_data	tcp.c	/^int send_data( struct conn *c, unsigned char *d, int len )$/;"	f
+tcp_listen	tcp.c	/^static int tcp_listen( int port )$/;"	f	file:
+tcp_send_pmsg	tcp.c	/^int tcp_send_pmsg( struct conn *c, struct pmsg *msg, int len )$/;"	f
+unbase64	tcp.c	/^static int unbase64( unsigned char *d, int len, int *remain )$/;"	f	file:

@@ -1,0 +1,3 @@
+mplayer -slave test.yuv -demuxer rawvideo -rawvideo format=yuy2:w=320:h=240 -loop 0
+
+    
