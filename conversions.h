@@ -60,4 +60,5 @@ iyu22rgb (char *YUV, char *RGB, int NumPixels);
 inline void
 y2rgb (char *YUV, char *RGB, int NumPixels);
 
+void decompress_jpeg(unsigned char *src, unsigned char *dest, int NumPixels) ;
 #endif

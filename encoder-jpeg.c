@@ -54,6 +54,31 @@ static void term_destination( j_compress_ptr cinfo )
 {
 }
 
+void decompress_jpeg(unsigned char *src, unsigned char *dest, int NumPixels) {
+	int width, pixel_size, row_stride;
+	struct jpeg_decompress_struct dinfo;
+	struct jpeg_error_mgr jerr;
+
+	dinfo.err = jpeg_std_error( &jerr );
+	jpeg_create_decompress( &dinfo );
+	jpeg_mem_src(&dinfo, src, NumPixels);
+	jpeg_read_header( &dinfo, TRUE );
+	jpeg_start_decompress( &dinfo );
+
+	width = dinfo.output_width;
+	pixel_size = dinfo.output_components;
+
+	row_stride = width * pixel_size;
+	while (dinfo.output_scanline < dinfo.output_height) {
+		unsigned char *buffer_array[1];
+		buffer_array[0] = dest + (dinfo.output_scanline) * row_stride;
+		jpeg_read_scanlines(&dinfo, buffer_array, 1);
+	}
+	jpeg_finish_decompress( &dinfo );
+	jpeg_destroy_decompress( &dinfo );
+}
+
+
 static void *jpeg_loop( void *d )
 {
 	struct jpeg_encoder *en = (struct jpeg_encoder *)d;

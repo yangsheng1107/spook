@@ -36,6 +36,7 @@
 #include <rtp_media.h>
 #include <conf_parse.h>
 //#include <jpeg_tables.h>
+#include <debug.h>
 
 struct rtp_jpeg {
 	int type;

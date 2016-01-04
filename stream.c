@@ -68,6 +68,22 @@ static void convert_yuyv_to_rgb24( struct frame *uyvy, void *d )
 	deliver_frame_to_stream( rgb, s );
 }
 
+static void convert_jpeg_to_rgb24( struct frame *jpeg, void *d )
+{
+	struct stream *s = (struct stream *)d;
+	struct frame *rgb;
+
+	rgb = new_frame();
+	rgb->format = FORMAT_RAW_RGB24;
+	rgb->width = jpeg->width;
+	rgb->height = jpeg->height;
+	rgb->length = jpeg->height * jpeg->width * 3;
+	rgb->key = jpeg->key;
+	decompress_jpeg( jpeg->d, rgb->d, jpeg->length);
+	unref_frame( jpeg );
+	deliver_frame_to_stream( rgb, s );
+}
+
 static void get_framerate( struct stream *s, int *fincr, int *fbase )
 {
 	struct stream_destination *dest =
@@ -183,7 +199,12 @@ struct stream_destination *connect_to_stream( char *name,
 					return new_dest( s, process_frame, d );
 				}
 				break;
-
+			case FORMAT_JPEG:
+				s = new_convert_stream( s,
+						FORMAT_RAW_RGB24,
+						convert_jpeg_to_rgb24 );
+				return new_dest( s, process_frame, d );
+				break;
 			}
 		}
 
